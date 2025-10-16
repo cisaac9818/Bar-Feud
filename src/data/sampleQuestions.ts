@@ -1,0 +1,143 @@
+import { Question } from '../types/game';
+
+export const sampleQuestions: Question[] = [
+  {
+    id: '1',
+    category: 'Bar Trivia',
+    question: 'Name something people order at a bar',
+    answers: [
+      { id: 1, text: 'Beer', points: 45, revealed: false },
+      { id: 2, text: 'Cocktail', points: 23, revealed: false },
+      { id: 3, text: 'Whiskey', points: 12, revealed: false },
+      { id: 4, text: 'Wine', points: 8, revealed: false },
+      { id: 5, text: 'Shots', points: 6, revealed: false },
+      { id: 6, text: 'Water', points: 4, revealed: false },
+      { id: 7, text: 'Soda', points: 2, revealed: false },
+    ],
+  },
+  {
+    id: '2',
+    category: 'Bar Trivia',
+    question: 'Name a popular bar game',
+    answers: [
+      { id: 1, text: 'Pool/Billiards', points: 38, revealed: false },
+      { id: 2, text: 'Darts', points: 27, revealed: false },
+      { id: 3, text: 'Trivia', points: 15, revealed: false },
+      { id: 4, text: 'Beer Pong', points: 10, revealed: false },
+      { id: 5, text: 'Karaoke', points: 6, revealed: false },
+      { id: 6, text: 'Shuffleboard', points: 3, revealed: false },
+    ],
+  },
+  {
+    id: '3',
+    category: 'Bar Trivia',
+    question: 'Name a reason to go to a bar',
+    answers: [
+      { id: 1, text: 'Socialize/Friends', points: 42, revealed: false },
+      { id: 2, text: 'Watch Sports', points: 24, revealed: false },
+      { id: 3, text: 'Date Night', points: 14, revealed: false },
+      { id: 4, text: 'Celebrate', points: 9, revealed: false },
+      { id: 5, text: 'Relax/Unwind', points: 6, revealed: false },
+      { id: 6, text: 'Live Music', points: 3, revealed: false },
+    ],
+  },
+  {
+    id: '4',
+    category: 'Bar Trivia',
+    question: 'Name a popular beer brand',
+    answers: [
+      { id: 1, text: 'Budweiser', points: 35, revealed: false },
+      { id: 2, text: 'Coors', points: 22, revealed: false },
+      { id: 3, text: 'Miller', points: 18, revealed: false },
+      { id: 4, text: 'Corona', points: 11, revealed: false },
+      { id: 5, text: 'Heineken', points: 7, revealed: false },
+      { id: 6, text: 'Guinness', points: 4, revealed: false },
+    ],
+  },
+  {
+    id: '5',
+    category: 'Sports',
+    question: 'Name a sport people watch at bars',
+    answers: [
+      { id: 1, text: 'Football', points: 40, revealed: false },
+      { id: 2, text: 'Basketball', points: 25, revealed: false },
+      { id: 3, text: 'Baseball', points: 15, revealed: false },
+      { id: 4, text: 'Hockey', points: 10, revealed: false },
+      { id: 5, text: 'Soccer', points: 6, revealed: false },
+      { id: 6, text: 'Boxing/UFC', points: 4, revealed: false },
+    ],
+  },
+  {
+    id: '6',
+    category: 'Sports',
+    question: 'Name a famous athlete',
+    answers: [
+      { id: 1, text: 'Michael Jordan', points: 38, revealed: false },
+      { id: 2, text: 'Tom Brady', points: 24, revealed: false },
+      { id: 3, text: 'LeBron James', points: 18, revealed: false },
+      { id: 4, text: 'Lionel Messi', points: 10, revealed: false },
+      { id: 5, text: 'Tiger Woods', points: 6, revealed: false },
+      { id: 6, text: 'Serena Williams', points: 4, revealed: false },
+    ],
+  },
+  {
+    id: '7',
+    category: 'Music',
+    question: 'Name a popular karaoke song',
+    answers: [
+      { id: 1, text: 'Don\'t Stop Believin\'', points: 35, revealed: false },
+      { id: 2, text: 'Sweet Caroline', points: 28, revealed: false },
+      { id: 3, text: 'Bohemian Rhapsody', points: 16, revealed: false },
+      { id: 4, text: 'I Will Survive', points: 10, revealed: false },
+      { id: 5, text: 'Livin\' on a Prayer', points: 7, revealed: false },
+      { id: 6, text: 'Piano Man', points: 4, revealed: false },
+    ],
+  },
+  {
+    id: '8',
+    category: 'Music',
+    question: 'Name a music genre',
+    answers: [
+      { id: 1, text: 'Rock', points: 32, revealed: false },
+      { id: 2, text: 'Pop', points: 26, revealed: false },
+      { id: 3, text: 'Hip Hop/Rap', points: 20, revealed: false },
+      { id: 4, text: 'Country', points: 12, revealed: false },
+      { id: 5, text: 'Jazz', points: 6, revealed: false },
+      { id: 6, text: 'Electronic', points: 4, revealed: false },
+    ],
+  },
+  {
+    id: '9',
+    category: 'Movies',
+    question: 'Name a classic movie everyone has seen',
+    answers: [
+      { id: 1, text: 'The Godfather', points: 30, revealed: false },
+      { id: 2, text: 'Star Wars', points: 26, revealed: false },
+      { id: 3, text: 'Titanic', points: 18, revealed: false },
+      { id: 4, text: 'Forrest Gump', points: 12, revealed: false },
+      { id: 5, text: 'The Shawshank Redemption', points: 8, revealed: false },
+      { id: 6, text: 'Jurassic Park', points: 6, revealed: false },
+    ],
+  },
+  {
+    id: '10',
+    category: 'Movies',
+    question: 'Name a movie snack',
+    answers: [
+      { id: 1, text: 'Popcorn', points: 50, revealed: false },
+      { id: 2, text: 'Candy', points: 22, revealed: false },
+      { id: 3, text: 'Nachos', points: 14, revealed: false },
+      { id: 4, text: 'Soda', points: 8, revealed: false },
+      { id: 5, text: 'Hot Dog', points: 4, revealed: false },
+      { id: 6, text: 'Pretzel', points: 2, revealed: false },
+    ],
+  },
+];
+
+export const categories = [
+  'All',
+  'Bar Trivia',
+  'Sports',
+  'Music',
+  'Movies',
+];
