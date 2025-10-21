@@ -1,0 +1,3620 @@
+{
+  "questions": [
+    {
+      "category": "Kids",
+      "question": "Name something kids are always losing",
+      "prompt": "Name something kids are always losing",
+      "title": "Name something kids are always losing",
+      "questionText": "Name something kids are always losing",
+      "q": "Name something kids are always losing",
+      "answers": [
+        {
+          "answer": "Toys",
+          "text": "Toys",
+          "label": "Toys",
+          "name": "Toys",
+          "valueText": "Toys",
+          "points": 35,
+          "score": 35,
+          "value": 35
+        },
+        {
+          "answer": "Shoes",
+          "text": "Shoes",
+          "label": "Shoes",
+          "name": "Shoes",
+          "valueText": "Shoes",
+          "points": 25,
+          "score": 25,
+          "value": 25
+        },
+        {
+          "answer": "Homework",
+          "text": "Homework",
+          "label": "Homework",
+          "name": "Homework",
+          "valueText": "Homework",
+          "points": 15,
+          "score": 15,
+          "value": 15
+        },
+        {
+          "answer": "Lunchbox",
+          "text": "Lunchbox",
+          "label": "Lunchbox",
+          "name": "Lunchbox",
+          "valueText": "Lunchbox",
+          "points": 13,
+          "score": 13,
+          "value": 13
+        },
+        {
+          "answer": "Jacket",
+          "text": "Jacket",
+          "label": "Jacket",
+          "name": "Jacket",
+          "valueText": "Jacket",
+          "points": 12,
+          "score": 12,
+          "value": 12
+        }
+      ]
+    },
+    {
+      "category": "Dating",
+      "question": "Name a place people go on a first date",
+      "prompt": "Name a place people go on a first date",
+      "title": "Name a place people go on a first date",
+      "questionText": "Name a place people go on a first date",
+      "q": "Name a place people go on a first date",
+      "answers": [
+        {
+          "answer": "Restaurant",
+          "text": "Restaurant",
+          "label": "Restaurant",
+          "name": "Restaurant",
+          "valueText": "Restaurant",
+          "points": 38,
+          "score": 38,
+          "value": 38
+        },
+        {
+          "answer": "Movies",
+          "text": "Movies",
+          "label": "Movies",
+          "name": "Movies",
+          "valueText": "Movies",
+          "points": 30,
+          "score": 30,
+          "value": 30
+        },
+        {
+          "answer": "Coffee Shop",
+          "text": "Coffee Shop",
+          "label": "Coffee Shop",
+          "name": "Coffee Shop",
+          "valueText": "Coffee Shop",
+          "points": 16,
+          "score": 16,
+          "value": 16
+        },
+        {
+          "answer": "Bar",
+          "text": "Bar",
+          "label": "Bar",
+          "name": "Bar",
+          "valueText": "Bar",
+          "points": 10,
+          "score": 10,
+          "value": 10
+        },
+        {
+          "answer": "Park",
+          "text": "Park",
+          "label": "Park",
+          "name": "Park",
+          "valueText": "Park",
+          "points": 6,
+          "score": 6,
+          "value": 6
+        },
+        {
+          "answer": "Bowling Alley",
+          "text": "Bowling Alley",
+          "label": "Bowling Alley",
+          "name": "Bowling Alley",
+          "valueText": "Bowling Alley",
+          "points": 5,
+          "score": 5,
+          "value": 5
+        },
+        {
+          "answer": "Concert",
+          "text": "Concert",
+          "label": "Concert",
+          "name": "Concert",
+          "valueText": "Concert",
+          "points": 4,
+          "score": 4,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "category": "Married Men",
+      "question": "Name something a married man hides from his wife",
+      "prompt": "Name something a married man hides from his wife",
+      "title": "Name something a married man hides from his wife",
+      "questionText": "Name something a married man hides from his wife",
+      "q": "Name something a married man hides from his wife",
+      "answers": [
+        {
+          "answer": "Money",
+          "text": "Money",
+          "label": "Money",
+          "name": "Money",
+          "valueText": "Money",
+          "points": 40,
+          "score": 40,
+          "value": 40
+        },
+        {
+          "answer": "Snacks",
+          "text": "Snacks",
+          "label": "Snacks",
+          "name": "Snacks",
+          "valueText": "Snacks",
+          "points": 20,
+          "score": 20,
+          "value": 20
+        },
+        {
+          "answer": "Receipts",
+          "text": "Receipts",
+          "label": "Receipts",
+          "name": "Receipts",
+          "valueText": "Receipts",
+          "points": 15,
+          "score": 15,
+          "value": 15
+        },
+        {
+          "answer": "Phone",
+          "text": "Phone",
+          "label": "Phone",
+          "name": "Phone",
+          "valueText": "Phone",
+          "points": 10,
+          "score": 10,
+          "value": 10
+        },
+        {
+          "answer": "Cigarettes",
+          "text": "Cigarettes",
+          "label": "Cigarettes",
+          "name": "Cigarettes",
+          "valueText": "Cigarettes",
+          "points": 7,
+          "score": 7,
+          "value": 7
+        },
+        {
+          "answer": "Bad habits",
+          "text": "Bad habits",
+          "label": "Bad habits",
+          "name": "Bad habits",
+          "valueText": "Bad habits",
+          "points": 5,
+          "score": 5,
+          "value": 5
+        },
+        {
+          "answer": "Flirt messages",
+          "text": "Flirt messages",
+          "label": "Flirt messages",
+          "name": "Flirt messages",
+          "valueText": "Flirt messages",
+          "points": 3,
+          "score": 3,
+          "value": 3
+        },
+        {
+          "answer": "Credit card",
+          "text": "Credit card",
+          "label": "Credit card",
+          "name": "Credit card",
+          "valueText": "Credit card",
+          "points": 2,
+          "score": 2,
+          "value": 2
+        }
+      ]
+    },
+    {
+      "category": "Married Women",
+      "question": "Name something married women complain their husbands never do",
+      "prompt": "Name something married women complain their husbands never do",
+      "title": "Name something married women complain their husbands never do",
+      "questionText": "Name something married women complain their husbands never do",
+      "q": "Name something married women complain their husbands never do",
+      "answers": [
+        {
+          "answer": "Listen",
+          "text": "Listen",
+          "label": "Listen",
+          "name": "Listen",
+          "valueText": "Listen",
+          "points": 32,
+          "score": 32,
+          "value": 32
+        },
+        {
+          "answer": "Clean up",
+          "text": "Clean up",
+          "label": "Clean up",
+          "name": "Clean up",
+          "valueText": "Clean up",
+          "points": 26,
+          "score": 26,
+          "value": 26
+        },
+        {
+          "answer": "Take out trash",
+          "text": "Take out trash",
+          "label": "Take out trash",
+          "name": "Take out trash",
+          "valueText": "Take out trash",
+          "points": 20,
+          "score": 20,
+          "value": 20
+        },
+        {
+          "answer": "Romance",
+          "text": "Romance",
+          "label": "Romance",
+          "name": "Romance",
+          "valueText": "Romance",
+          "points": 10,
+          "score": 10,
+          "value": 10
+        },
+        {
+          "answer": "Help with kids",
+          "text": "Help with kids",
+          "label": "Help with kids",
+          "name": "Help with kids",
+          "valueText": "Help with kids",
+          "points": 7,
+          "score": 7,
+          "value": 7
+        },
+        {
+          "answer": "Cook",
+          "text": "Cook",
+          "label": "Cook",
+          "name": "Cook",
+          "valueText": "Cook",
+          "points": 3,
+          "score": 3,
+          "value": 3
+        },
+        {
+          "answer": "Communicate",
+          "text": "Communicate",
+          "label": "Communicate",
+          "name": "Communicate",
+          "valueText": "Communicate",
+          "points": 2,
+          "score": 2,
+          "value": 2
+        }
+      ]
+    },
+    {
+      "category": "Teenagers",
+      "question": "Name something teenagers do the moment they get home from school",
+      "prompt": "Name something teenagers do the moment they get home from school",
+      "title": "Name something teenagers do the moment they get home from school",
+      "questionText": "Name something teenagers do the moment they get home from school",
+      "q": "Name something teenagers do the moment they get home from school",
+      "answers": [
+        {
+          "answer": "Eat",
+          "text": "Eat",
+          "label": "Eat",
+          "name": "Eat",
+          "valueText": "Eat",
+          "points": 30,
+          "score": 30,
+          "value": 30
+        },
+        {
+          "answer": "Go on phone",
+          "text": "Go on phone",
+          "label": "Go on phone",
+          "name": "Go on phone",
+          "valueText": "Go on phone",
+          "points": 25,
+          "score": 25,
+          "value": 25
+        },
+        {
+          "answer": "Change clothes",
+          "text": "Change clothes",
+          "label": "Change clothes",
+          "name": "Change clothes",
+          "valueText": "Change clothes",
+          "points": 20,
+          "score": 20,
+          "value": 20
+        },
+        {
+          "answer": "Watch TV",
+          "text": "Watch TV",
+          "label": "Watch TV",
+          "name": "Watch TV",
+          "valueText": "Watch TV",
+          "points": 10,
+          "score": 10,
+          "value": 10
+        },
+        {
+          "answer": "Nap",
+          "text": "Nap",
+          "label": "Nap",
+          "name": "Nap",
+          "valueText": "Nap",
+          "points": 8,
+          "score": 8,
+          "value": 8
+        },
+        {
+          "answer": "Homework",
+          "text": "Homework",
+          "label": "Homework",
+          "name": "Homework",
+          "valueText": "Homework",
+          "points": 5,
+          "score": 5,
+          "value": 5
+        },
+        {
+          "answer": "Complain",
+          "text": "Complain",
+          "label": "Complain",
+          "name": "Complain",
+          "valueText": "Complain",
+          "points": 2,
+          "score": 2,
+          "value": 2
+        }
+      ]
+    },
+    {
+      "category": "Millennials",
+      "question": "Name something millennials can\u2019t live without",
+      "prompt": "Name something millennials can\u2019t live without",
+      "title": "Name something millennials can\u2019t live without",
+      "questionText": "Name something millennials can\u2019t live without",
+      "q": "Name something millennials can\u2019t live without",
+      "answers": [
+        {
+          "answer": "Phone",
+          "text": "Phone",
+          "label": "Phone",
+          "name": "Phone",
+          "valueText": "Phone",
+          "points": 45,
+          "score": 45,
+          "value": 45
+        },
+        {
+          "answer": "Wi\u2011Fi",
+          "text": "Wi\u2011Fi",
+          "label": "Wi\u2011Fi",
+          "name": "Wi\u2011Fi",
+          "valueText": "Wi\u2011Fi",
+          "points": 25,
+          "score": 25,
+          "value": 25
+        },
+        {
+          "answer": "Streaming services",
+          "text": "Streaming services",
+          "label": "Streaming services",
+          "name": "Streaming services",
+          "valueText": "Streaming services",
+          "points": 15,
+          "score": 15,
+          "value": 15
+        },
+        {
+          "answer": "Coffee",
+          "text": "Coffee",
+          "label": "Coffee",
+          "name": "Coffee",
+          "valueText": "Coffee",
+          "points": 10,
+          "score": 10,
+          "value": 10
+        },
+        {
+          "answer": "Social media",
+          "text": "Social media",
+          "label": "Social media",
+          "name": "Social media",
+          "valueText": "Social media",
+          "points": 5,
+          "score": 5,
+          "value": 5
+        },
+        {
+          "answer": "Online shopping",
+          "text": "Online shopping",
+          "label": "Online shopping",
+          "name": "Online shopping",
+          "valueText": "Online shopping",
+          "points": 3,
+          "score": 3,
+          "value": 3
+        },
+        {
+          "answer": "Avocado toast",
+          "text": "Avocado toast",
+          "label": "Avocado toast",
+          "name": "Avocado toast",
+          "valueText": "Avocado toast",
+          "points": 2,
+          "score": 2,
+          "value": 2
+        }
+      ]
+    },
+    {
+      "category": "Gen X",
+      "question": "Name something Gen X people say about today\u2019s music",
+      "prompt": "Name something Gen X people say about today\u2019s music",
+      "title": "Name something Gen X people say about today\u2019s music",
+      "questionText": "Name something Gen X people say about today\u2019s music",
+      "q": "Name something Gen X people say about today\u2019s music",
+      "answers": [
+        {
+          "answer": "It all sounds the same",
+          "text": "It all sounds the same",
+          "label": "It all sounds the same",
+          "name": "It all sounds the same",
+          "valueText": "It all sounds the same",
+          "points": 35,
+          "score": 35,
+          "value": 35
+        },
+        {
+          "answer": "No real talent",
+          "text": "No real talent",
+          "label": "No real talent",
+          "name": "No real talent",
+          "valueText": "No real talent",
+          "points": 25,
+          "score": 25,
+          "value": 25
+        },
+        {
+          "answer": "Too much auto\u2011tune",
+          "text": "Too much auto\u2011tune",
+          "label": "Too much auto\u2011tune",
+          "name": "Too much auto\u2011tune",
+          "valueText": "Too much auto\u2011tune",
+          "points": 15,
+          "score": 15,
+          "value": 15
+        },
+        {
+          "answer": "Miss real instruments",
+          "text": "Miss real instruments",
+          "label": "Miss real instruments",
+          "name": "Miss real instruments",
+          "valueText": "Miss real instruments",
+          "points": 10,
+          "score": 10,
+          "value": 10
+        },
+        {
+          "answer": "No soul",
+          "text": "No soul",
+          "label": "No soul",
+          "name": "No soul",
+          "valueText": "No soul",
+          "points": 8,
+          "score": 8,
+          "value": 8
+        },
+        {
+          "answer": "Too explicit",
+          "text": "Too explicit",
+          "label": "Too explicit",
+          "name": "Too explicit",
+          "valueText": "Too explicit",
+          "points": 5,
+          "score": 5,
+          "value": 5
+        },
+        {
+          "answer": "Bring back 80s/90s",
+          "text": "Bring back 80s/90s",
+          "label": "Bring back 80s/90s",
+          "name": "Bring back 80s/90s",
+          "valueText": "Bring back 80s/90s",
+          "points": 2,
+          "score": 2,
+          "value": 2
+        }
+      ]
+    },
+    {
+      "category": "Gen Z",
+      "question": "Name something Gen Z does differently than older generations",
+      "prompt": "Name something Gen Z does differently than older generations",
+      "title": "Name something Gen Z does differently than older generations",
+      "questionText": "Name something Gen Z does differently than older generations",
+      "q": "Name something Gen Z does differently than older generations",
+      "answers": [
+        {
+          "answer": "Text instead of call",
+          "text": "Text instead of call",
+          "label": "Text instead of call",
+          "name": "Text instead of call",
+          "valueText": "Text instead of call",
+          "points": 30,
+          "score": 30,
+          "value": 30
+        },
+        {
+          "answer": "Use TikTok",
+          "text": "Use TikTok",
+          "label": "Use TikTok",
+          "name": "Use TikTok",
+          "valueText": "Use TikTok",
+          "points": 25,
+          "score": 25,
+          "value": 25
+        },
+        {
+          "answer": "Work remote",
+          "text": "Work remote",
+          "label": "Work remote",
+          "name": "Work remote",
+          "valueText": "Work remote",
+          "points": 15,
+          "score": 15,
+          "value": 15
+        },
+        {
+          "answer": "Stream music",
+          "text": "Stream music",
+          "label": "Stream music",
+          "name": "Stream music",
+          "valueText": "Stream music",
+          "points": 10,
+          "score": 10,
+          "value": 10
+        },
+        {
+          "answer": "Online dating",
+          "text": "Online dating",
+          "label": "Online dating",
+          "name": "Online dating",
+          "valueText": "Online dating",
+          "points": 8,
+          "score": 8,
+          "value": 8
+        },
+        {
+          "answer": "Crypto investing",
+          "text": "Crypto investing",
+          "label": "Crypto investing",
+          "name": "Crypto investing",
+          "valueText": "Crypto investing",
+          "points": 7,
+          "score": 7,
+          "value": 7
+        },
+        {
+          "answer": "Cancel culture",
+          "text": "Cancel culture",
+          "label": "Cancel culture",
+          "name": "Cancel culture",
+          "valueText": "Cancel culture",
+          "points": 5,
+          "score": 5,
+          "value": 5
+        },
+        {
+          "answer": "AI usage",
+          "text": "AI usage",
+          "label": "AI usage",
+          "name": "AI usage",
+          "valueText": "AI usage",
+          "points": 3,
+          "score": 3,
+          "value": 3
+        }
+      ]
+    },
+    {
+      "category": "Kids",
+      "question": "Name something kids love more than candy",
+      "prompt": "Name something kids love more than candy",
+      "title": "Name something kids love more than candy",
+      "questionText": "Name something kids love more than candy",
+      "q": "Name something kids love more than candy",
+      "answers": [
+        {
+          "answer": "Toys",
+          "text": "Toys",
+          "label": "Toys",
+          "name": "Toys",
+          "valueText": "Toys",
+          "points": 40,
+          "score": 40,
+          "value": 40
+        },
+        {
+          "answer": "Video games",
+          "text": "Video games",
+          "label": "Video games",
+          "name": "Video games",
+          "valueText": "Video games",
+          "points": 25,
+          "score": 25,
+          "value": 25
+        },
+        {
+          "answer": "Cartoons",
+          "text": "Cartoons",
+          "label": "Cartoons",
+          "name": "Cartoons",
+          "valueText": "Cartoons",
+          "points": 15,
+          "score": 15,
+          "value": 15
+        },
+        {
+          "answer": "Ice cream",
+          "text": "Ice cream",
+          "label": "Ice cream",
+          "name": "Ice cream",
+          "valueText": "Ice cream",
+          "points": 10,
+          "score": 10,
+          "value": 10
+        },
+        {
+          "answer": "Birthday parties",
+          "text": "Birthday parties",
+          "label": "Birthday parties",
+          "name": "Birthday parties",
+          "valueText": "Birthday parties",
+          "points": 10,
+          "score": 10,
+          "value": 10
+        }
+      ]
+    },
+    {
+      "category": "Dating",
+      "question": "Name a reason someone might ghost you after a date",
+      "prompt": "Name a reason someone might ghost you after a date",
+      "title": "Name a reason someone might ghost you after a date",
+      "questionText": "Name a reason someone might ghost you after a date",
+      "q": "Name a reason someone might ghost you after a date",
+      "answers": [
+        {
+          "answer": "Not attracted",
+          "text": "Not attracted",
+          "label": "Not attracted",
+          "name": "Not attracted",
+          "valueText": "Not attracted",
+          "points": 40,
+          "score": 40,
+          "value": 40
+        },
+        {
+          "answer": "Bad hygiene",
+          "text": "Bad hygiene",
+          "label": "Bad hygiene",
+          "name": "Bad hygiene",
+          "valueText": "Bad hygiene",
+          "points": 20,
+          "score": 20,
+          "value": 20
+        },
+        {
+          "answer": "Ex came back",
+          "text": "Ex came back",
+          "label": "Ex came back",
+          "name": "Ex came back",
+          "valueText": "Ex came back",
+          "points": 15,
+          "score": 15,
+          "value": 15
+        },
+        {
+          "answer": "You talked too much",
+          "text": "You talked too much",
+          "label": "You talked too much",
+          "name": "You talked too much",
+          "valueText": "You talked too much",
+          "points": 10,
+          "score": 10,
+          "value": 10
+        },
+        {
+          "answer": "Different goals",
+          "text": "Different goals",
+          "label": "Different goals",
+          "name": "Different goals",
+          "valueText": "Different goals",
+          "points": 8,
+          "score": 8,
+          "value": 8
+        },
+        {
+          "answer": "Awkward vibe",
+          "text": "Awkward vibe",
+          "label": "Awkward vibe",
+          "name": "Awkward vibe",
+          "valueText": "Awkward vibe",
+          "points": 5,
+          "score": 5,
+          "value": 5
+        },
+        {
+          "answer": "Too clingy",
+          "text": "Too clingy",
+          "label": "Too clingy",
+          "name": "Too clingy",
+          "valueText": "Too clingy",
+          "points": 2,
+          "score": 2,
+          "value": 2
+        }
+      ]
+    },
+    {
+      "category": "Married Men",
+      "question": "Name a chore husbands think they deserve a medal for doing once",
+      "prompt": "Name a chore husbands think they deserve a medal for doing once",
+      "title": "Name a chore husbands think they deserve a medal for doing once",
+      "questionText": "Name a chore husbands think they deserve a medal for doing once",
+      "q": "Name a chore husbands think they deserve a medal for doing once",
+      "answers": [
+        {
+          "answer": "Doing dishes",
+          "text": "Doing dishes",
+          "label": "Doing dishes",
+          "name": "Doing dishes",
+          "valueText": "Doing dishes",
+          "points": 35,
+          "score": 35,
+          "value": 35
+        },
+        {
+          "answer": "Laundry",
+          "text": "Laundry",
+          "label": "Laundry",
+          "name": "Laundry",
+          "valueText": "Laundry",
+          "points": 25,
+          "score": 25,
+          "value": 25
+        },
+        {
+          "answer": "Vacuuming",
+          "text": "Vacuuming",
+          "label": "Vacuuming",
+          "name": "Vacuuming",
+          "valueText": "Vacuuming",
+          "points": 20,
+          "score": 20,
+          "value": 20
+        },
+        {
+          "answer": "Cooking dinner",
+          "text": "Cooking dinner",
+          "label": "Cooking dinner",
+          "name": "Cooking dinner",
+          "valueText": "Cooking dinner",
+          "points": 10,
+          "score": 10,
+          "value": 10
+        },
+        {
+          "answer": "Watching kids",
+          "text": "Watching kids",
+          "label": "Watching kids",
+          "name": "Watching kids",
+          "valueText": "Watching kids",
+          "points": 5,
+          "score": 5,
+          "value": 5
+        },
+        {
+          "answer": "Taking out trash",
+          "text": "Taking out trash",
+          "label": "Taking out trash",
+          "name": "Taking out trash",
+          "valueText": "Taking out trash",
+          "points": 3,
+          "score": 3,
+          "value": 3
+        },
+        {
+          "answer": "Folding clothes",
+          "text": "Folding clothes",
+          "label": "Folding clothes",
+          "name": "Folding clothes",
+          "valueText": "Folding clothes",
+          "points": 2,
+          "score": 2,
+          "value": 2
+        }
+      ]
+    },
+    {
+      "category": "Teenagers",
+      "question": "Name something teenagers always think they\u2019re right about",
+      "prompt": "Name something teenagers always think they\u2019re right about",
+      "title": "Name something teenagers always think they\u2019re right about",
+      "questionText": "Name something teenagers always think they\u2019re right about",
+      "q": "Name something teenagers always think they\u2019re right about",
+      "answers": [
+        {
+          "answer": "Everything",
+          "text": "Everything",
+          "label": "Everything",
+          "name": "Everything",
+          "valueText": "Everything",
+          "points": 35,
+          "score": 35,
+          "value": 35
+        },
+        {
+          "answer": "Fashion",
+          "text": "Fashion",
+          "label": "Fashion",
+          "name": "Fashion",
+          "valueText": "Fashion",
+          "points": 20,
+          "score": 20,
+          "value": 20
+        },
+        {
+          "answer": "Music",
+          "text": "Music",
+          "label": "Music",
+          "name": "Music",
+          "valueText": "Music",
+          "points": 15,
+          "score": 15,
+          "value": 15
+        },
+        {
+          "answer": "Parents being wrong",
+          "text": "Parents being wrong",
+          "label": "Parents being wrong",
+          "name": "Parents being wrong",
+          "valueText": "Parents being wrong",
+          "points": 12,
+          "score": 12,
+          "value": 12
+        },
+        {
+          "answer": "Relationships",
+          "text": "Relationships",
+          "label": "Relationships",
+          "name": "Relationships",
+          "valueText": "Relationships",
+          "points": 8,
+          "score": 8,
+          "value": 8
+        },
+        {
+          "answer": "Politics",
+          "text": "Politics",
+          "label": "Politics",
+          "name": "Politics",
+          "valueText": "Politics",
+          "points": 6,
+          "score": 6,
+          "value": 6
+        },
+        {
+          "answer": "Social media trends",
+          "text": "Social media trends",
+          "label": "Social media trends",
+          "name": "Social media trends",
+          "valueText": "Social media trends",
+          "points": 4,
+          "score": 4,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "category": "Millennials",
+      "question": "Name a 90s/00s item millennials are nostalgic for",
+      "prompt": "Name a 90s/00s item millennials are nostalgic for",
+      "title": "Name a 90s/00s item millennials are nostalgic for",
+      "questionText": "Name a 90s/00s item millennials are nostalgic for",
+      "q": "Name a 90s/00s item millennials are nostalgic for",
+      "answers": [
+        {
+          "answer": "Blockbuster",
+          "text": "Blockbuster",
+          "label": "Blockbuster",
+          "name": "Blockbuster",
+          "valueText": "Blockbuster",
+          "points": 27,
+          "score": 27,
+          "value": 27
+        },
+        {
+          "answer": "Walkman",
+          "text": "Walkman",
+          "label": "Walkman",
+          "name": "Walkman",
+          "valueText": "Walkman",
+          "points": 23,
+          "score": 23,
+          "value": 23
+        },
+        {
+          "answer": "Game Boy",
+          "text": "Game Boy",
+          "label": "Game Boy",
+          "name": "Game Boy",
+          "valueText": "Game Boy",
+          "points": 17,
+          "score": 17,
+          "value": 17
+        },
+        {
+          "answer": "Saturday cartoons",
+          "text": "Saturday cartoons",
+          "label": "Saturday cartoons",
+          "name": "Saturday cartoons",
+          "valueText": "Saturday cartoons",
+          "points": 13,
+          "score": 13,
+          "value": 13
+        },
+        {
+          "answer": "MySpace",
+          "text": "MySpace",
+          "label": "MySpace",
+          "name": "MySpace",
+          "valueText": "MySpace",
+          "points": 10,
+          "score": 10,
+          "value": 10
+        },
+        {
+          "answer": "Flip phones",
+          "text": "Flip phones",
+          "label": "Flip phones",
+          "name": "Flip phones",
+          "valueText": "Flip phones",
+          "points": 7,
+          "score": 7,
+          "value": 7
+        },
+        {
+          "answer": "LimeWire",
+          "text": "LimeWire",
+          "label": "LimeWire",
+          "name": "LimeWire",
+          "valueText": "LimeWire",
+          "points": 3,
+          "score": 3,
+          "value": 3
+        }
+      ]
+    },
+    {
+      "category": "Teenagers",
+      "question": "Name something teenagers hide from parents",
+      "prompt": "Name something teenagers hide from parents",
+      "title": "Name something teenagers hide from parents",
+      "questionText": "Name something teenagers hide from parents",
+      "q": "Name something teenagers hide from parents",
+      "answers": [
+        {
+          "answer": "Phone screen",
+          "text": "Phone screen",
+          "label": "Phone screen",
+          "name": "Phone screen",
+          "valueText": "Phone screen",
+          "points": 25,
+          "score": 25,
+          "value": 25
+        },
+        {
+          "answer": "Report card",
+          "text": "Report card",
+          "label": "Report card",
+          "name": "Report card",
+          "valueText": "Report card",
+          "points": 22,
+          "score": 22,
+          "value": 22
+        },
+        {
+          "answer": "Snacks",
+          "text": "Snacks",
+          "label": "Snacks",
+          "name": "Snacks",
+          "valueText": "Snacks",
+          "points": 18,
+          "score": 18,
+          "value": 18
+        },
+        {
+          "answer": "Dating life",
+          "text": "Dating life",
+          "label": "Dating life",
+          "name": "Dating life",
+          "valueText": "Dating life",
+          "points": 15,
+          "score": 15,
+          "value": 15
+        },
+        {
+          "answer": "Makeup",
+          "text": "Makeup",
+          "label": "Makeup",
+          "name": "Makeup",
+          "valueText": "Makeup",
+          "points": 10,
+          "score": 10,
+          "value": 10
+        },
+        {
+          "answer": "Social accounts",
+          "text": "Social accounts",
+          "label": "Social accounts",
+          "name": "Social accounts",
+          "valueText": "Social accounts",
+          "points": 7,
+          "score": 7,
+          "value": 7
+        },
+        {
+          "answer": "Piercings",
+          "text": "Piercings",
+          "label": "Piercings",
+          "name": "Piercings",
+          "valueText": "Piercings",
+          "points": 3,
+          "score": 3,
+          "value": 3
+        }
+      ]
+    },
+    {
+      "category": "Married Men",
+      "question": "Name a reason a husband sleeps on the couch",
+      "prompt": "Name a reason a husband sleeps on the couch",
+      "title": "Name a reason a husband sleeps on the couch",
+      "questionText": "Name a reason a husband sleeps on the couch",
+      "q": "Name a reason a husband sleeps on the couch",
+      "answers": [
+        {
+          "answer": "Big argument",
+          "text": "Big argument",
+          "label": "Big argument",
+          "name": "Big argument",
+          "valueText": "Big argument",
+          "points": 24,
+          "score": 24,
+          "value": 24
+        },
+        {
+          "answer": "Snoring",
+          "text": "Snoring",
+          "label": "Snoring",
+          "name": "Snoring",
+          "valueText": "Snoring",
+          "points": 18,
+          "score": 18,
+          "value": 18
+        },
+        {
+          "answer": "Came home late",
+          "text": "Came home late",
+          "label": "Came home late",
+          "name": "Came home late",
+          "valueText": "Came home late",
+          "points": 18,
+          "score": 18,
+          "value": 18
+        },
+        {
+          "answer": "Forgot chore",
+          "text": "Forgot chore",
+          "label": "Forgot chore",
+          "name": "Forgot chore",
+          "valueText": "Forgot chore",
+          "points": 13,
+          "score": 13,
+          "value": 13
+        },
+        {
+          "answer": "Kids in bed",
+          "text": "Kids in bed",
+          "label": "Kids in bed",
+          "name": "Kids in bed",
+          "valueText": "Kids in bed",
+          "points": 10,
+          "score": 10,
+          "value": 10
+        },
+        {
+          "answer": "Watching TV",
+          "text": "Watching TV",
+          "label": "Watching TV",
+          "name": "Watching TV",
+          "valueText": "Watching TV",
+          "points": 9,
+          "score": 9,
+          "value": 9
+        },
+        {
+          "answer": "Sick",
+          "text": "Sick",
+          "label": "Sick",
+          "name": "Sick",
+          "valueText": "Sick",
+          "points": 5,
+          "score": 5,
+          "value": 5
+        },
+        {
+          "answer": "Dog took spot",
+          "text": "Dog took spot",
+          "label": "Dog took spot",
+          "name": "Dog took spot",
+          "valueText": "Dog took spot",
+          "points": 3,
+          "score": 3,
+          "value": 3
+        }
+      ]
+    },
+    {
+      "category": "Married Men",
+      "question": "Name something a husband gets in trouble for forgetting",
+      "prompt": "Name something a husband gets in trouble for forgetting",
+      "title": "Name something a husband gets in trouble for forgetting",
+      "questionText": "Name something a husband gets in trouble for forgetting",
+      "q": "Name something a husband gets in trouble for forgetting",
+      "answers": [
+        {
+          "answer": "Anniversary",
+          "text": "Anniversary",
+          "label": "Anniversary",
+          "name": "Anniversary",
+          "valueText": "Anniversary",
+          "points": 30,
+          "score": 30,
+          "value": 30
+        },
+        {
+          "answer": "Birthday",
+          "text": "Birthday",
+          "label": "Birthday",
+          "name": "Birthday",
+          "valueText": "Birthday",
+          "points": 26,
+          "score": 26,
+          "value": 26
+        },
+        {
+          "answer": "Take out trash",
+          "text": "Take out trash",
+          "label": "Take out trash",
+          "name": "Take out trash",
+          "valueText": "Take out trash",
+          "points": 22,
+          "score": 22,
+          "value": 22
+        },
+        {
+          "answer": "Date night",
+          "text": "Date night",
+          "label": "Date night",
+          "name": "Date night",
+          "valueText": "Date night",
+          "points": 14,
+          "score": 14,
+          "value": 14
+        },
+        {
+          "answer": "Pick up kids",
+          "text": "Pick up kids",
+          "label": "Pick up kids",
+          "name": "Pick up kids",
+          "valueText": "Pick up kids",
+          "points": 8,
+          "score": 8,
+          "value": 8
+        }
+      ]
+    },
+    {
+      "category": "Gen X",
+      "question": "Name something Gen X does better than younger folks",
+      "prompt": "Name something Gen X does better than younger folks",
+      "title": "Name something Gen X does better than younger folks",
+      "questionText": "Name something Gen X does better than younger folks",
+      "q": "Name something Gen X does better than younger folks",
+      "answers": [
+        {
+          "answer": "Parallel park",
+          "text": "Parallel park",
+          "label": "Parallel park",
+          "name": "Parallel park",
+          "valueText": "Parallel park",
+          "points": 22,
+          "score": 22,
+          "value": 22
+        },
+        {
+          "answer": "Change a tire",
+          "text": "Change a tire",
+          "label": "Change a tire",
+          "name": "Change a tire",
+          "valueText": "Change a tire",
+          "points": 19,
+          "score": 19,
+          "value": 19
+        },
+        {
+          "answer": "Use a map",
+          "text": "Use a map",
+          "label": "Use a map",
+          "name": "Use a map",
+          "valueText": "Use a map",
+          "points": 18,
+          "score": 18,
+          "value": 18
+        },
+        {
+          "answer": "Work without Wi\u2011Fi",
+          "text": "Work without Wi\u2011Fi",
+          "label": "Work without Wi\u2011Fi",
+          "name": "Work without Wi\u2011Fi",
+          "valueText": "Work without Wi\u2011Fi",
+          "points": 13,
+          "score": 13,
+          "value": 13
+        },
+        {
+          "answer": "Fix things",
+          "text": "Fix things",
+          "label": "Fix things",
+          "name": "Fix things",
+          "valueText": "Fix things",
+          "points": 12,
+          "score": 12,
+          "value": 12
+        },
+        {
+          "answer": "Phone etiquette",
+          "text": "Phone etiquette",
+          "label": "Phone etiquette",
+          "name": "Phone etiquette",
+          "valueText": "Phone etiquette",
+          "points": 8,
+          "score": 8,
+          "value": 8
+        },
+        {
+          "answer": "Save money",
+          "text": "Save money",
+          "label": "Save money",
+          "name": "Save money",
+          "valueText": "Save money",
+          "points": 6,
+          "score": 6,
+          "value": 6
+        },
+        {
+          "answer": "Cook from scratch",
+          "text": "Cook from scratch",
+          "label": "Cook from scratch",
+          "name": "Cook from scratch",
+          "valueText": "Cook from scratch",
+          "points": 2,
+          "score": 2,
+          "value": 2
+        }
+      ]
+    },
+    {
+      "category": "Married Women",
+      "question": "Name something wives wish husbands did more often",
+      "prompt": "Name something wives wish husbands did more often",
+      "title": "Name something wives wish husbands did more often",
+      "questionText": "Name something wives wish husbands did more often",
+      "q": "Name something wives wish husbands did more often",
+      "answers": [
+        {
+          "answer": "Communicate",
+          "text": "Communicate",
+          "label": "Communicate",
+          "name": "Communicate",
+          "valueText": "Communicate",
+          "points": 25,
+          "score": 25,
+          "value": 25
+        },
+        {
+          "answer": "Plan dates",
+          "text": "Plan dates",
+          "label": "Plan dates",
+          "name": "Plan dates",
+          "valueText": "Plan dates",
+          "points": 19,
+          "score": 19,
+          "value": 19
+        },
+        {
+          "answer": "Help with chores",
+          "text": "Help with chores",
+          "label": "Help with chores",
+          "name": "Help with chores",
+          "valueText": "Help with chores",
+          "points": 18,
+          "score": 18,
+          "value": 18
+        },
+        {
+          "answer": "Compliments",
+          "text": "Compliments",
+          "label": "Compliments",
+          "name": "Compliments",
+          "valueText": "Compliments",
+          "points": 15,
+          "score": 15,
+          "value": 15
+        },
+        {
+          "answer": "Listen",
+          "text": "Listen",
+          "label": "Listen",
+          "name": "Listen",
+          "valueText": "Listen",
+          "points": 11,
+          "score": 11,
+          "value": 11
+        },
+        {
+          "answer": "Surprise gifts",
+          "text": "Surprise gifts",
+          "label": "Surprise gifts",
+          "name": "Surprise gifts",
+          "valueText": "Surprise gifts",
+          "points": 8,
+          "score": 8,
+          "value": 8
+        },
+        {
+          "answer": "Take initiative",
+          "text": "Take initiative",
+          "label": "Take initiative",
+          "name": "Take initiative",
+          "valueText": "Take initiative",
+          "points": 4,
+          "score": 4,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "category": "Teenagers",
+      "question": "Name something teenagers do on the bus",
+      "prompt": "Name something teenagers do on the bus",
+      "title": "Name something teenagers do on the bus",
+      "questionText": "Name something teenagers do on the bus",
+      "q": "Name something teenagers do on the bus",
+      "answers": [
+        {
+          "answer": "Listen to music",
+          "text": "Listen to music",
+          "label": "Listen to music",
+          "name": "Listen to music",
+          "valueText": "Listen to music",
+          "points": 32,
+          "score": 32,
+          "value": 32
+        },
+        {
+          "answer": "Scroll TikTok",
+          "text": "Scroll TikTok",
+          "label": "Scroll TikTok",
+          "name": "Scroll TikTok",
+          "valueText": "Scroll TikTok",
+          "points": 31,
+          "score": 31,
+          "value": 31
+        },
+        {
+          "answer": "Talk with friends",
+          "text": "Talk with friends",
+          "label": "Talk with friends",
+          "name": "Talk with friends",
+          "valueText": "Talk with friends",
+          "points": 20,
+          "score": 20,
+          "value": 20
+        },
+        {
+          "answer": "Sleep",
+          "text": "Sleep",
+          "label": "Sleep",
+          "name": "Sleep",
+          "valueText": "Sleep",
+          "points": 11,
+          "score": 11,
+          "value": 11
+        },
+        {
+          "answer": "Homework",
+          "text": "Homework",
+          "label": "Homework",
+          "name": "Homework",
+          "valueText": "Homework",
+          "points": 6,
+          "score": 6,
+          "value": 6
+        }
+      ]
+    },
+    {
+      "category": "Gen Z",
+      "question": "Name an app Gen Z checks first thing in the morning",
+      "prompt": "Name an app Gen Z checks first thing in the morning",
+      "title": "Name an app Gen Z checks first thing in the morning",
+      "questionText": "Name an app Gen Z checks first thing in the morning",
+      "q": "Name an app Gen Z checks first thing in the morning",
+      "answers": [
+        {
+          "answer": "TikTok",
+          "text": "TikTok",
+          "label": "TikTok",
+          "name": "TikTok",
+          "valueText": "TikTok",
+          "points": 22,
+          "score": 22,
+          "value": 22
+        },
+        {
+          "answer": "Instagram",
+          "text": "Instagram",
+          "label": "Instagram",
+          "name": "Instagram",
+          "valueText": "Instagram",
+          "points": 20,
+          "score": 20,
+          "value": 20
+        },
+        {
+          "answer": "Snapchat",
+          "text": "Snapchat",
+          "label": "Snapchat",
+          "name": "Snapchat",
+          "valueText": "Snapchat",
+          "points": 15,
+          "score": 15,
+          "value": 15
+        },
+        {
+          "answer": "YouTube",
+          "text": "YouTube",
+          "label": "YouTube",
+          "name": "YouTube",
+          "valueText": "YouTube",
+          "points": 15,
+          "score": 15,
+          "value": 15
+        },
+        {
+          "answer": "Messages",
+          "text": "Messages",
+          "label": "Messages",
+          "name": "Messages",
+          "valueText": "Messages",
+          "points": 12,
+          "score": 12,
+          "value": 12
+        },
+        {
+          "answer": "Discord",
+          "text": "Discord",
+          "label": "Discord",
+          "name": "Discord",
+          "valueText": "Discord",
+          "points": 7,
+          "score": 7,
+          "value": 7
+        },
+        {
+          "answer": "Spotify",
+          "text": "Spotify",
+          "label": "Spotify",
+          "name": "Spotify",
+          "valueText": "Spotify",
+          "points": 6,
+          "score": 6,
+          "value": 6
+        },
+        {
+          "answer": "X (Twitter)",
+          "text": "X (Twitter)",
+          "label": "X (Twitter)",
+          "name": "X (Twitter)",
+          "valueText": "X (Twitter)",
+          "points": 3,
+          "score": 3,
+          "value": 3
+        }
+      ]
+    },
+    {
+      "category": "Kids",
+      "question": "Name something kids do when they don\u2019t want to sleep",
+      "prompt": "Name something kids do when they don\u2019t want to sleep",
+      "title": "Name something kids do when they don\u2019t want to sleep",
+      "questionText": "Name something kids do when they don\u2019t want to sleep",
+      "q": "Name something kids do when they don\u2019t want to sleep",
+      "answers": [
+        {
+          "answer": "Ask for water",
+          "text": "Ask for water",
+          "label": "Ask for water",
+          "name": "Ask for water",
+          "valueText": "Ask for water",
+          "points": 32,
+          "score": 32,
+          "value": 32
+        },
+        {
+          "answer": "Need bathroom",
+          "text": "Need bathroom",
+          "label": "Need bathroom",
+          "name": "Need bathroom",
+          "valueText": "Need bathroom",
+          "points": 26,
+          "score": 26,
+          "value": 26
+        },
+        {
+          "answer": "Cry",
+          "text": "Cry",
+          "label": "Cry",
+          "name": "Cry",
+          "valueText": "Cry",
+          "points": 23,
+          "score": 23,
+          "value": 23
+        },
+        {
+          "answer": "Ask for story",
+          "text": "Ask for story",
+          "label": "Ask for story",
+          "name": "Ask for story",
+          "valueText": "Ask for story",
+          "points": 12,
+          "score": 12,
+          "value": 12
+        },
+        {
+          "answer": "Hide",
+          "text": "Hide",
+          "label": "Hide",
+          "name": "Hide",
+          "valueText": "Hide",
+          "points": 7,
+          "score": 7,
+          "value": 7
+        }
+      ]
+    },
+    {
+      "category": "Dating",
+      "question": "Name a romantic gesture people love",
+      "prompt": "Name a romantic gesture people love",
+      "title": "Name a romantic gesture people love",
+      "questionText": "Name a romantic gesture people love",
+      "q": "Name a romantic gesture people love",
+      "answers": [
+        {
+          "answer": "Flowers",
+          "text": "Flowers",
+          "label": "Flowers",
+          "name": "Flowers",
+          "valueText": "Flowers",
+          "points": 33,
+          "score": 33,
+          "value": 33
+        },
+        {
+          "answer": "Surprise dinner",
+          "text": "Surprise dinner",
+          "label": "Surprise dinner",
+          "name": "Surprise dinner",
+          "valueText": "Surprise dinner",
+          "points": 27,
+          "score": 27,
+          "value": 27
+        },
+        {
+          "answer": "Love notes",
+          "text": "Love notes",
+          "label": "Love notes",
+          "name": "Love notes",
+          "valueText": "Love notes",
+          "points": 19,
+          "score": 19,
+          "value": 19
+        },
+        {
+          "answer": "Breakfast in bed",
+          "text": "Breakfast in bed",
+          "label": "Breakfast in bed",
+          "name": "Breakfast in bed",
+          "valueText": "Breakfast in bed",
+          "points": 14,
+          "score": 14,
+          "value": 14
+        },
+        {
+          "answer": "Weekend getaway",
+          "text": "Weekend getaway",
+          "label": "Weekend getaway",
+          "name": "Weekend getaway",
+          "valueText": "Weekend getaway",
+          "points": 7,
+          "score": 7,
+          "value": 7
+        }
+      ]
+    },
+    {
+      "category": "Dating",
+      "question": "Name a dating app people mention",
+      "prompt": "Name a dating app people mention",
+      "title": "Name a dating app people mention",
+      "questionText": "Name a dating app people mention",
+      "q": "Name a dating app people mention",
+      "answers": [
+        {
+          "answer": "Tinder",
+          "text": "Tinder",
+          "label": "Tinder",
+          "name": "Tinder",
+          "valueText": "Tinder",
+          "points": 22,
+          "score": 22,
+          "value": 22
+        },
+        {
+          "answer": "Bumble",
+          "text": "Bumble",
+          "label": "Bumble",
+          "name": "Bumble",
+          "valueText": "Bumble",
+          "points": 18,
+          "score": 18,
+          "value": 18
+        },
+        {
+          "answer": "Hinge",
+          "text": "Hinge",
+          "label": "Hinge",
+          "name": "Hinge",
+          "valueText": "Hinge",
+          "points": 15,
+          "score": 15,
+          "value": 15
+        },
+        {
+          "answer": "Match",
+          "text": "Match",
+          "label": "Match",
+          "name": "Match",
+          "valueText": "Match",
+          "points": 15,
+          "score": 15,
+          "value": 15
+        },
+        {
+          "answer": "Plenty of Fish",
+          "text": "Plenty of Fish",
+          "label": "Plenty of Fish",
+          "name": "Plenty of Fish",
+          "valueText": "Plenty of Fish",
+          "points": 13,
+          "score": 13,
+          "value": 13
+        },
+        {
+          "answer": "OkCupid",
+          "text": "OkCupid",
+          "label": "OkCupid",
+          "name": "OkCupid",
+          "valueText": "OkCupid",
+          "points": 7,
+          "score": 7,
+          "value": 7
+        },
+        {
+          "answer": "Facebook Dating",
+          "text": "Facebook Dating",
+          "label": "Facebook Dating",
+          "name": "Facebook Dating",
+          "valueText": "Facebook Dating",
+          "points": 6,
+          "score": 6,
+          "value": 6
+        },
+        {
+          "answer": "Grinder",
+          "text": "Grinder",
+          "label": "Grinder",
+          "name": "Grinder",
+          "valueText": "Grinder",
+          "points": 4,
+          "score": 4,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "category": "Gen X",
+      "question": "Name something Gen X fixed with duct tape",
+      "prompt": "Name something Gen X fixed with duct tape",
+      "title": "Name something Gen X fixed with duct tape",
+      "questionText": "Name something Gen X fixed with duct tape",
+      "q": "Name something Gen X fixed with duct tape",
+      "answers": [
+        {
+          "answer": "Car bumper",
+          "text": "Car bumper",
+          "label": "Car bumper",
+          "name": "Car bumper",
+          "valueText": "Car bumper",
+          "points": 24,
+          "score": 24,
+          "value": 24
+        },
+        {
+          "answer": "Remote",
+          "text": "Remote",
+          "label": "Remote",
+          "name": "Remote",
+          "valueText": "Remote",
+          "points": 18,
+          "score": 18,
+          "value": 18
+        },
+        {
+          "answer": "Sneakers",
+          "text": "Sneakers",
+          "label": "Sneakers",
+          "name": "Sneakers",
+          "valueText": "Sneakers",
+          "points": 17,
+          "score": 17,
+          "value": 17
+        },
+        {
+          "answer": "Backpack",
+          "text": "Backpack",
+          "label": "Backpack",
+          "name": "Backpack",
+          "valueText": "Backpack",
+          "points": 13,
+          "score": 13,
+          "value": 13
+        },
+        {
+          "answer": "Chair",
+          "text": "Chair",
+          "label": "Chair",
+          "name": "Chair",
+          "valueText": "Chair",
+          "points": 11,
+          "score": 11,
+          "value": 11
+        },
+        {
+          "answer": "Hose",
+          "text": "Hose",
+          "label": "Hose",
+          "name": "Hose",
+          "valueText": "Hose",
+          "points": 8,
+          "score": 8,
+          "value": 8
+        },
+        {
+          "answer": "Glasses",
+          "text": "Glasses",
+          "label": "Glasses",
+          "name": "Glasses",
+          "valueText": "Glasses",
+          "points": 6,
+          "score": 6,
+          "value": 6
+        },
+        {
+          "answer": "Anything broken",
+          "text": "Anything broken",
+          "label": "Anything broken",
+          "name": "Anything broken",
+          "valueText": "Anything broken",
+          "points": 3,
+          "score": 3,
+          "value": 3
+        }
+      ]
+    },
+    {
+      "category": "Dating",
+      "question": "Name a deal\u2011breaker on a first date",
+      "prompt": "Name a deal\u2011breaker on a first date",
+      "title": "Name a deal\u2011breaker on a first date",
+      "questionText": "Name a deal\u2011breaker on a first date",
+      "q": "Name a deal\u2011breaker on a first date",
+      "answers": [
+        {
+          "answer": "Bad breath",
+          "text": "Bad breath",
+          "label": "Bad breath",
+          "name": "Bad breath",
+          "valueText": "Bad breath",
+          "points": 30,
+          "score": 30,
+          "value": 30
+        },
+        {
+          "answer": "Rudeness",
+          "text": "Rudeness",
+          "label": "Rudeness",
+          "name": "Rudeness",
+          "valueText": "Rudeness",
+          "points": 19,
+          "score": 19,
+          "value": 19
+        },
+        {
+          "answer": "Talking about ex",
+          "text": "Talking about ex",
+          "label": "Talking about ex",
+          "name": "Talking about ex",
+          "valueText": "Talking about ex",
+          "points": 16,
+          "score": 16,
+          "value": 16
+        },
+        {
+          "answer": "Being late",
+          "text": "Being late",
+          "label": "Being late",
+          "name": "Being late",
+          "valueText": "Being late",
+          "points": 12,
+          "score": 12,
+          "value": 12
+        },
+        {
+          "answer": "No tip",
+          "text": "No tip",
+          "label": "No tip",
+          "name": "No tip",
+          "valueText": "No tip",
+          "points": 12,
+          "score": 12,
+          "value": 12
+        },
+        {
+          "answer": "Phone out",
+          "text": "Phone out",
+          "label": "Phone out",
+          "name": "Phone out",
+          "valueText": "Phone out",
+          "points": 7,
+          "score": 7,
+          "value": 7
+        },
+        {
+          "answer": "Lying",
+          "text": "Lying",
+          "label": "Lying",
+          "name": "Lying",
+          "valueText": "Lying",
+          "points": 3,
+          "score": 3,
+          "value": 3
+        }
+      ]
+    },
+    {
+      "category": "Gen Z",
+      "question": "Name a modern classroom replacement for textbooks",
+      "prompt": "Name a modern classroom replacement for textbooks",
+      "title": "Name a modern classroom replacement for textbooks",
+      "questionText": "Name a modern classroom replacement for textbooks",
+      "q": "Name a modern classroom replacement for textbooks",
+      "answers": [
+        {
+          "answer": "Chromebooks",
+          "text": "Chromebooks",
+          "label": "Chromebooks",
+          "name": "Chromebooks",
+          "valueText": "Chromebooks",
+          "points": 26,
+          "score": 26,
+          "value": 26
+        },
+        {
+          "answer": "iPads",
+          "text": "iPads",
+          "label": "iPads",
+          "name": "iPads",
+          "valueText": "iPads",
+          "points": 20,
+          "score": 20,
+          "value": 20
+        },
+        {
+          "answer": "Google Docs",
+          "text": "Google Docs",
+          "label": "Google Docs",
+          "name": "Google Docs",
+          "valueText": "Google Docs",
+          "points": 18,
+          "score": 18,
+          "value": 18
+        },
+        {
+          "answer": "Quizlet",
+          "text": "Quizlet",
+          "label": "Quizlet",
+          "name": "Quizlet",
+          "valueText": "Quizlet",
+          "points": 16,
+          "score": 16,
+          "value": 16
+        },
+        {
+          "answer": "Online portals",
+          "text": "Online portals",
+          "label": "Online portals",
+          "name": "Online portals",
+          "valueText": "Online portals",
+          "points": 10,
+          "score": 10,
+          "value": 10
+        },
+        {
+          "answer": "YouTube lessons",
+          "text": "YouTube lessons",
+          "label": "YouTube lessons",
+          "name": "YouTube lessons",
+          "valueText": "YouTube lessons",
+          "points": 7,
+          "score": 7,
+          "value": 7
+        },
+        {
+          "answer": "E\u2011books",
+          "text": "E\u2011books",
+          "label": "E\u2011books",
+          "name": "E\u2011books",
+          "valueText": "E\u2011books",
+          "points": 3,
+          "score": 3,
+          "value": 3
+        }
+      ]
+    },
+    {
+      "category": "Kids",
+      "question": "Name a place kids love to go on weekends",
+      "prompt": "Name a place kids love to go on weekends",
+      "title": "Name a place kids love to go on weekends",
+      "questionText": "Name a place kids love to go on weekends",
+      "q": "Name a place kids love to go on weekends",
+      "answers": [
+        {
+          "answer": "Park",
+          "text": "Park",
+          "label": "Park",
+          "name": "Park",
+          "valueText": "Park",
+          "points": 24,
+          "score": 24,
+          "value": 24
+        },
+        {
+          "answer": "Zoo",
+          "text": "Zoo",
+          "label": "Zoo",
+          "name": "Zoo",
+          "valueText": "Zoo",
+          "points": 23,
+          "score": 23,
+          "value": 23
+        },
+        {
+          "answer": "Movies",
+          "text": "Movies",
+          "label": "Movies",
+          "name": "Movies",
+          "valueText": "Movies",
+          "points": 19,
+          "score": 19,
+          "value": 19
+        },
+        {
+          "answer": "Arcade",
+          "text": "Arcade",
+          "label": "Arcade",
+          "name": "Arcade",
+          "valueText": "Arcade",
+          "points": 13,
+          "score": 13,
+          "value": 13
+        },
+        {
+          "answer": "Trampoline park",
+          "text": "Trampoline park",
+          "label": "Trampoline park",
+          "name": "Trampoline park",
+          "valueText": "Trampoline park",
+          "points": 9,
+          "score": 9,
+          "value": 9
+        },
+        {
+          "answer": "Grandma's",
+          "text": "Grandma's",
+          "label": "Grandma's",
+          "name": "Grandma's",
+          "valueText": "Grandma's",
+          "points": 8,
+          "score": 8,
+          "value": 8
+        },
+        {
+          "answer": "Pool",
+          "text": "Pool",
+          "label": "Pool",
+          "name": "Pool",
+          "valueText": "Pool",
+          "points": 4,
+          "score": 4,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "category": "Millennials",
+      "question": "Name something millennials do to \u2018self\u2011care\u2019",
+      "prompt": "Name something millennials do to \u2018self\u2011care\u2019",
+      "title": "Name something millennials do to \u2018self\u2011care\u2019",
+      "questionText": "Name something millennials do to \u2018self\u2011care\u2019",
+      "q": "Name something millennials do to \u2018self\u2011care\u2019",
+      "answers": [
+        {
+          "answer": "Therapy",
+          "text": "Therapy",
+          "label": "Therapy",
+          "name": "Therapy",
+          "valueText": "Therapy",
+          "points": 21,
+          "score": 21,
+          "value": 21
+        },
+        {
+          "answer": "Gym",
+          "text": "Gym",
+          "label": "Gym",
+          "name": "Gym",
+          "valueText": "Gym",
+          "points": 20,
+          "score": 20,
+          "value": 20
+        },
+        {
+          "answer": "Meditation",
+          "text": "Meditation",
+          "label": "Meditation",
+          "name": "Meditation",
+          "valueText": "Meditation",
+          "points": 15,
+          "score": 15,
+          "value": 15
+        },
+        {
+          "answer": "Spa day",
+          "text": "Spa day",
+          "label": "Spa day",
+          "name": "Spa day",
+          "valueText": "Spa day",
+          "points": 13,
+          "score": 13,
+          "value": 13
+        },
+        {
+          "answer": "Meal prep",
+          "text": "Meal prep",
+          "label": "Meal prep",
+          "name": "Meal prep",
+          "valueText": "Meal prep",
+          "points": 12,
+          "score": 12,
+          "value": 12
+        },
+        {
+          "answer": "Digital detox",
+          "text": "Digital detox",
+          "label": "Digital detox",
+          "name": "Digital detox",
+          "valueText": "Digital detox",
+          "points": 8,
+          "score": 8,
+          "value": 8
+        },
+        {
+          "answer": "Journaling",
+          "text": "Journaling",
+          "label": "Journaling",
+          "name": "Journaling",
+          "valueText": "Journaling",
+          "points": 6,
+          "score": 6,
+          "value": 6
+        },
+        {
+          "answer": "Yoga",
+          "text": "Yoga",
+          "label": "Yoga",
+          "name": "Yoga",
+          "valueText": "Yoga",
+          "points": 3,
+          "score": 3,
+          "value": 3
+        }
+      ]
+    },
+    {
+      "category": "Kids",
+      "question": "Name a snack kids ask for after school",
+      "prompt": "Name a snack kids ask for after school",
+      "title": "Name a snack kids ask for after school",
+      "questionText": "Name a snack kids ask for after school",
+      "q": "Name a snack kids ask for after school",
+      "answers": [
+        {
+          "answer": "Cookies",
+          "text": "Cookies",
+          "label": "Cookies",
+          "name": "Cookies",
+          "valueText": "Cookies",
+          "points": 22,
+          "score": 22,
+          "value": 22
+        },
+        {
+          "answer": "Chips",
+          "text": "Chips",
+          "label": "Chips",
+          "name": "Chips",
+          "valueText": "Chips",
+          "points": 20,
+          "score": 20,
+          "value": 20
+        },
+        {
+          "answer": "Fruit snacks",
+          "text": "Fruit snacks",
+          "label": "Fruit snacks",
+          "name": "Fruit snacks",
+          "valueText": "Fruit snacks",
+          "points": 18,
+          "score": 18,
+          "value": 18
+        },
+        {
+          "answer": "Apple",
+          "text": "Apple",
+          "label": "Apple",
+          "name": "Apple",
+          "valueText": "Apple",
+          "points": 14,
+          "score": 14,
+          "value": 14
+        },
+        {
+          "answer": "Granola bar",
+          "text": "Granola bar",
+          "label": "Granola bar",
+          "name": "Granola bar",
+          "valueText": "Granola bar",
+          "points": 12,
+          "score": 12,
+          "value": 12
+        },
+        {
+          "answer": "Ice cream",
+          "text": "Ice cream",
+          "label": "Ice cream",
+          "name": "Ice cream",
+          "valueText": "Ice cream",
+          "points": 7,
+          "score": 7,
+          "value": 7
+        },
+        {
+          "answer": "Popcorn",
+          "text": "Popcorn",
+          "label": "Popcorn",
+          "name": "Popcorn",
+          "valueText": "Popcorn",
+          "points": 4,
+          "score": 4,
+          "value": 4
+        },
+        {
+          "answer": "Candy",
+          "text": "Candy",
+          "label": "Candy",
+          "name": "Candy",
+          "valueText": "Candy",
+          "points": 3,
+          "score": 3,
+          "value": 3
+        }
+      ]
+    },
+    {
+      "category": "Married Women",
+      "question": "Name something wives hide from their husbands",
+      "prompt": "Name something wives hide from their husbands",
+      "title": "Name something wives hide from their husbands",
+      "questionText": "Name something wives hide from their husbands",
+      "q": "Name something wives hide from their husbands",
+      "answers": [
+        {
+          "answer": "Online shopping boxes",
+          "text": "Online shopping boxes",
+          "label": "Online shopping boxes",
+          "name": "Online shopping boxes",
+          "valueText": "Online shopping boxes",
+          "points": 38,
+          "score": 38,
+          "value": 38
+        },
+        {
+          "answer": "Snacks",
+          "text": "Snacks",
+          "label": "Snacks",
+          "name": "Snacks",
+          "valueText": "Snacks",
+          "points": 27,
+          "score": 27,
+          "value": 27
+        },
+        {
+          "answer": "Receipts",
+          "text": "Receipts",
+          "label": "Receipts",
+          "name": "Receipts",
+          "valueText": "Receipts",
+          "points": 16,
+          "score": 16,
+          "value": 16
+        },
+        {
+          "answer": "New shoes",
+          "text": "New shoes",
+          "label": "New shoes",
+          "name": "New shoes",
+          "valueText": "New shoes",
+          "points": 12,
+          "score": 12,
+          "value": 12
+        },
+        {
+          "answer": "Secret cash",
+          "text": "Secret cash",
+          "label": "Secret cash",
+          "name": "Secret cash",
+          "valueText": "Secret cash",
+          "points": 7,
+          "score": 7,
+          "value": 7
+        }
+      ]
+    },
+    {
+      "category": "Married Men",
+      "question": "Name something husbands buy without asking",
+      "prompt": "Name something husbands buy without asking",
+      "title": "Name something husbands buy without asking",
+      "questionText": "Name something husbands buy without asking",
+      "q": "Name something husbands buy without asking",
+      "answers": [
+        {
+          "answer": "Gadgets",
+          "text": "Gadgets",
+          "label": "Gadgets",
+          "name": "Gadgets",
+          "valueText": "Gadgets",
+          "points": 24,
+          "score": 24,
+          "value": 24
+        },
+        {
+          "answer": "Tools",
+          "text": "Tools",
+          "label": "Tools",
+          "name": "Tools",
+          "valueText": "Tools",
+          "points": 17,
+          "score": 17,
+          "value": 17
+        },
+        {
+          "answer": "Sneakers",
+          "text": "Sneakers",
+          "label": "Sneakers",
+          "name": "Sneakers",
+          "valueText": "Sneakers",
+          "points": 16,
+          "score": 16,
+          "value": 16
+        },
+        {
+          "answer": "Video games",
+          "text": "Video games",
+          "label": "Video games",
+          "name": "Video games",
+          "valueText": "Video games",
+          "points": 13,
+          "score": 13,
+          "value": 13
+        },
+        {
+          "answer": "Car parts",
+          "text": "Car parts",
+          "label": "Car parts",
+          "name": "Car parts",
+          "valueText": "Car parts",
+          "points": 12,
+          "score": 12,
+          "value": 12
+        },
+        {
+          "answer": "Sports tickets",
+          "text": "Sports tickets",
+          "label": "Sports tickets",
+          "name": "Sports tickets",
+          "valueText": "Sports tickets",
+          "points": 9,
+          "score": 9,
+          "value": 9
+        },
+        {
+          "answer": "Drone",
+          "text": "Drone",
+          "label": "Drone",
+          "name": "Drone",
+          "valueText": "Drone",
+          "points": 5,
+          "score": 5,
+          "value": 5
+        },
+        {
+          "answer": "Big TV",
+          "text": "Big TV",
+          "label": "Big TV",
+          "name": "Big TV",
+          "valueText": "Big TV",
+          "points": 2,
+          "score": 2,
+          "value": 2
+        }
+      ]
+    },
+    {
+      "category": "Kids",
+      "question": "Name a cartoon character every kid knows",
+      "prompt": "Name a cartoon character every kid knows",
+      "title": "Name a cartoon character every kid knows",
+      "questionText": "Name a cartoon character every kid knows",
+      "q": "Name a cartoon character every kid knows",
+      "answers": [
+        {
+          "answer": "Mickey Mouse",
+          "text": "Mickey Mouse",
+          "label": "Mickey Mouse",
+          "name": "Mickey Mouse",
+          "valueText": "Mickey Mouse",
+          "points": 32,
+          "score": 32,
+          "value": 32
+        },
+        {
+          "answer": "SpongeBob",
+          "text": "SpongeBob",
+          "label": "SpongeBob",
+          "name": "SpongeBob",
+          "valueText": "SpongeBob",
+          "points": 26,
+          "score": 26,
+          "value": 26
+        },
+        {
+          "answer": "Peppa Pig",
+          "text": "Peppa Pig",
+          "label": "Peppa Pig",
+          "name": "Peppa Pig",
+          "valueText": "Peppa Pig",
+          "points": 21,
+          "score": 21,
+          "value": 21
+        },
+        {
+          "answer": "Paw Patrol",
+          "text": "Paw Patrol",
+          "label": "Paw Patrol",
+          "name": "Paw Patrol",
+          "valueText": "Paw Patrol",
+          "points": 13,
+          "score": 13,
+          "value": 13
+        },
+        {
+          "answer": "Bugs Bunny",
+          "text": "Bugs Bunny",
+          "label": "Bugs Bunny",
+          "name": "Bugs Bunny",
+          "valueText": "Bugs Bunny",
+          "points": 8,
+          "score": 8,
+          "value": 8
+        }
+      ]
+    },
+    {
+      "category": "Teenagers",
+      "question": "Name a reason a teen gets their phone taken",
+      "prompt": "Name a reason a teen gets their phone taken",
+      "title": "Name a reason a teen gets their phone taken",
+      "questionText": "Name a reason a teen gets their phone taken",
+      "q": "Name a reason a teen gets their phone taken",
+      "answers": [
+        {
+          "answer": "Bad grades",
+          "text": "Bad grades",
+          "label": "Bad grades",
+          "name": "Bad grades",
+          "valueText": "Bad grades",
+          "points": 22,
+          "score": 22,
+          "value": 22
+        },
+        {
+          "answer": "Missed curfew",
+          "text": "Missed curfew",
+          "label": "Missed curfew",
+          "name": "Missed curfew",
+          "valueText": "Missed curfew",
+          "points": 22,
+          "score": 22,
+          "value": 22
+        },
+        {
+          "answer": "Talking back",
+          "text": "Talking back",
+          "label": "Talking back",
+          "name": "Talking back",
+          "valueText": "Talking back",
+          "points": 18,
+          "score": 18,
+          "value": 18
+        },
+        {
+          "answer": "Too much screen time",
+          "text": "Too much screen time",
+          "label": "Too much screen time",
+          "name": "Too much screen time",
+          "valueText": "Too much screen time",
+          "points": 16,
+          "score": 16,
+          "value": 16
+        },
+        {
+          "answer": "Grounded",
+          "text": "Grounded",
+          "label": "Grounded",
+          "name": "Grounded",
+          "valueText": "Grounded",
+          "points": 10,
+          "score": 10,
+          "value": 10
+        },
+        {
+          "answer": "Sneaking out",
+          "text": "Sneaking out",
+          "label": "Sneaking out",
+          "name": "Sneaking out",
+          "valueText": "Sneaking out",
+          "points": 6,
+          "score": 6,
+          "value": 6
+        },
+        {
+          "answer": "Detention",
+          "text": "Detention",
+          "label": "Detention",
+          "name": "Detention",
+          "valueText": "Detention",
+          "points": 4,
+          "score": 4,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "category": "Married Women",
+      "question": "Name a chore wives say husbands don\u2019t do right",
+      "prompt": "Name a chore wives say husbands don\u2019t do right",
+      "title": "Name a chore wives say husbands don\u2019t do right",
+      "questionText": "Name a chore wives say husbands don\u2019t do right",
+      "q": "Name a chore wives say husbands don\u2019t do right",
+      "answers": [
+        {
+          "answer": "Laundry",
+          "text": "Laundry",
+          "label": "Laundry",
+          "name": "Laundry",
+          "valueText": "Laundry",
+          "points": 34,
+          "score": 34,
+          "value": 34
+        },
+        {
+          "answer": "Dishes",
+          "text": "Dishes",
+          "label": "Dishes",
+          "name": "Dishes",
+          "valueText": "Dishes",
+          "points": 29,
+          "score": 29,
+          "value": 29
+        },
+        {
+          "answer": "Fold towels",
+          "text": "Fold towels",
+          "label": "Fold towels",
+          "name": "Fold towels",
+          "valueText": "Fold towels",
+          "points": 17,
+          "score": 17,
+          "value": 17
+        },
+        {
+          "answer": "Mop floor",
+          "text": "Mop floor",
+          "label": "Mop floor",
+          "name": "Mop floor",
+          "valueText": "Mop floor",
+          "points": 14,
+          "score": 14,
+          "value": 14
+        },
+        {
+          "answer": "Clean bathroom",
+          "text": "Clean bathroom",
+          "label": "Clean bathroom",
+          "name": "Clean bathroom",
+          "valueText": "Clean bathroom",
+          "points": 6,
+          "score": 6,
+          "value": 6
+        }
+      ]
+    },
+    {
+      "category": "Married Women",
+      "question": "Name something wives Google late at night",
+      "prompt": "Name something wives Google late at night",
+      "title": "Name something wives Google late at night",
+      "questionText": "Name something wives Google late at night",
+      "q": "Name something wives Google late at night",
+      "answers": [
+        {
+          "answer": "Recipes",
+          "text": "Recipes",
+          "label": "Recipes",
+          "name": "Recipes",
+          "valueText": "Recipes",
+          "points": 37,
+          "score": 37,
+          "value": 37
+        },
+        {
+          "answer": "Parenting tips",
+          "text": "Parenting tips",
+          "label": "Parenting tips",
+          "name": "Parenting tips",
+          "valueText": "Parenting tips",
+          "points": 23,
+          "score": 23,
+          "value": 23
+        },
+        {
+          "answer": "Health symptoms",
+          "text": "Health symptoms",
+          "label": "Health symptoms",
+          "name": "Health symptoms",
+          "valueText": "Health symptoms",
+          "points": 23,
+          "score": 23,
+          "value": 23
+        },
+        {
+          "answer": "Vacation deals",
+          "text": "Vacation deals",
+          "label": "Vacation deals",
+          "name": "Vacation deals",
+          "valueText": "Vacation deals",
+          "points": 11,
+          "score": 11,
+          "value": 11
+        },
+        {
+          "answer": "DIY hacks",
+          "text": "DIY hacks",
+          "label": "DIY hacks",
+          "name": "DIY hacks",
+          "valueText": "DIY hacks",
+          "points": 6,
+          "score": 6,
+          "value": 6
+        }
+      ]
+    },
+    {
+      "category": "Teenagers",
+      "question": "Name something teens say is \u2018cringe\u2019",
+      "prompt": "Name something teens say is \u2018cringe\u2019",
+      "title": "Name something teens say is \u2018cringe\u2019",
+      "questionText": "Name something teens say is \u2018cringe\u2019",
+      "q": "Name something teens say is \u2018cringe\u2019",
+      "answers": [
+        {
+          "answer": "Dad jokes",
+          "text": "Dad jokes",
+          "label": "Dad jokes",
+          "name": "Dad jokes",
+          "valueText": "Dad jokes",
+          "points": 19,
+          "score": 19,
+          "value": 19
+        },
+        {
+          "answer": "Facebook",
+          "text": "Facebook",
+          "label": "Facebook",
+          "name": "Facebook",
+          "valueText": "Facebook",
+          "points": 17,
+          "score": 17,
+          "value": 17
+        },
+        {
+          "answer": "Skinny jeans",
+          "text": "Skinny jeans",
+          "label": "Skinny jeans",
+          "name": "Skinny jeans",
+          "valueText": "Skinny jeans",
+          "points": 14,
+          "score": 14,
+          "value": 14
+        },
+        {
+          "answer": "Chain emails",
+          "text": "Chain emails",
+          "label": "Chain emails",
+          "name": "Chain emails",
+          "valueText": "Chain emails",
+          "points": 14,
+          "score": 14,
+          "value": 14
+        },
+        {
+          "answer": "PDA",
+          "text": "PDA",
+          "label": "PDA",
+          "name": "PDA",
+          "valueText": "PDA",
+          "points": 12,
+          "score": 12,
+          "value": 12
+        },
+        {
+          "answer": "Old slang",
+          "text": "Old slang",
+          "label": "Old slang",
+          "name": "Old slang",
+          "valueText": "Old slang",
+          "points": 8,
+          "score": 8,
+          "value": 8
+        },
+        {
+          "answer": "Selfie sticks",
+          "text": "Selfie sticks",
+          "label": "Selfie sticks",
+          "name": "Selfie sticks",
+          "valueText": "Selfie sticks",
+          "points": 6,
+          "score": 6,
+          "value": 6
+        },
+        {
+          "answer": "Slow dances",
+          "text": "Slow dances",
+          "label": "Slow dances",
+          "name": "Slow dances",
+          "valueText": "Slow dances",
+          "points": 3,
+          "score": 3,
+          "value": 3
+        }
+      ]
+    },
+    {
+      "category": "Millennials",
+      "question": "Name a bill millennials complain about",
+      "prompt": "Name a bill millennials complain about",
+      "title": "Name a bill millennials complain about",
+      "questionText": "Name a bill millennials complain about",
+      "q": "Name a bill millennials complain about",
+      "answers": [
+        {
+          "answer": "Rent",
+          "text": "Rent",
+          "label": "Rent",
+          "name": "Rent",
+          "valueText": "Rent",
+          "points": 23,
+          "score": 23,
+          "value": 23
+        },
+        {
+          "answer": "Student loans",
+          "text": "Student loans",
+          "label": "Student loans",
+          "name": "Student loans",
+          "valueText": "Student loans",
+          "points": 21,
+          "score": 21,
+          "value": 21
+        },
+        {
+          "answer": "Phone plan",
+          "text": "Phone plan",
+          "label": "Phone plan",
+          "name": "Phone plan",
+          "valueText": "Phone plan",
+          "points": 15,
+          "score": 15,
+          "value": 15
+        },
+        {
+          "answer": "Streaming subscriptions",
+          "text": "Streaming subscriptions",
+          "label": "Streaming subscriptions",
+          "name": "Streaming subscriptions",
+          "valueText": "Streaming subscriptions",
+          "points": 13,
+          "score": 13,
+          "value": 13
+        },
+        {
+          "answer": "Groceries",
+          "text": "Groceries",
+          "label": "Groceries",
+          "name": "Groceries",
+          "valueText": "Groceries",
+          "points": 10,
+          "score": 10,
+          "value": 10
+        },
+        {
+          "answer": "Car insurance",
+          "text": "Car insurance",
+          "label": "Car insurance",
+          "name": "Car insurance",
+          "valueText": "Car insurance",
+          "points": 9,
+          "score": 9,
+          "value": 9
+        },
+        {
+          "answer": "Internet",
+          "text": "Internet",
+          "label": "Internet",
+          "name": "Internet",
+          "valueText": "Internet",
+          "points": 6,
+          "score": 6,
+          "value": 6
+        },
+        {
+          "answer": "Health insurance",
+          "text": "Health insurance",
+          "label": "Health insurance",
+          "name": "Health insurance",
+          "valueText": "Health insurance",
+          "points": 3,
+          "score": 3,
+          "value": 3
+        }
+      ]
+    },
+    {
+      "category": "Dating",
+      "question": "Name somewhere you might get friend\u2011zoned",
+      "prompt": "Name somewhere you might get friend\u2011zoned",
+      "title": "Name somewhere you might get friend\u2011zoned",
+      "questionText": "Name somewhere you might get friend\u2011zoned",
+      "q": "Name somewhere you might get friend\u2011zoned",
+      "answers": [
+        {
+          "answer": "Coffee shop",
+          "text": "Coffee shop",
+          "label": "Coffee shop",
+          "name": "Coffee shop",
+          "valueText": "Coffee shop",
+          "points": 31,
+          "score": 31,
+          "value": 31
+        },
+        {
+          "answer": "Group hangout",
+          "text": "Group hangout",
+          "label": "Group hangout",
+          "name": "Group hangout",
+          "valueText": "Group hangout",
+          "points": 28,
+          "score": 28,
+          "value": 28
+        },
+        {
+          "answer": "Text messages",
+          "text": "Text messages",
+          "label": "Text messages",
+          "name": "Text messages",
+          "valueText": "Text messages",
+          "points": 20,
+          "score": 20,
+          "value": 20
+        },
+        {
+          "answer": "Workplace",
+          "text": "Workplace",
+          "label": "Workplace",
+          "name": "Workplace",
+          "valueText": "Workplace",
+          "points": 14,
+          "score": 14,
+          "value": 14
+        },
+        {
+          "answer": "School",
+          "text": "School",
+          "label": "School",
+          "name": "School",
+          "valueText": "School",
+          "points": 7,
+          "score": 7,
+          "value": 7
+        }
+      ]
+    },
+    {
+      "category": "Married Men",
+      "question": "Name a household item husbands swear they\u2019ll fix \u2018tomorrow\u2019",
+      "prompt": "Name a household item husbands swear they\u2019ll fix \u2018tomorrow\u2019",
+      "title": "Name a household item husbands swear they\u2019ll fix \u2018tomorrow\u2019",
+      "questionText": "Name a household item husbands swear they\u2019ll fix \u2018tomorrow\u2019",
+      "q": "Name a household item husbands swear they\u2019ll fix \u2018tomorrow\u2019",
+      "answers": [
+        {
+          "answer": "Leaky faucet",
+          "text": "Leaky faucet",
+          "label": "Leaky faucet",
+          "name": "Leaky faucet",
+          "valueText": "Leaky faucet",
+          "points": 23,
+          "score": 23,
+          "value": 23
+        },
+        {
+          "answer": "Loose doorknob",
+          "text": "Loose doorknob",
+          "label": "Loose doorknob",
+          "name": "Loose doorknob",
+          "valueText": "Loose doorknob",
+          "points": 20,
+          "score": 20,
+          "value": 20
+        },
+        {
+          "answer": "Broken light",
+          "text": "Broken light",
+          "label": "Broken light",
+          "name": "Broken light",
+          "valueText": "Broken light",
+          "points": 18,
+          "score": 18,
+          "value": 18
+        },
+        {
+          "answer": "Squeaky door",
+          "text": "Squeaky door",
+          "label": "Squeaky door",
+          "name": "Squeaky door",
+          "valueText": "Squeaky door",
+          "points": 17,
+          "score": 17,
+          "value": 17
+        },
+        {
+          "answer": "Running toilet",
+          "text": "Running toilet",
+          "label": "Running toilet",
+          "name": "Running toilet",
+          "valueText": "Running toilet",
+          "points": 10,
+          "score": 10,
+          "value": 10
+        },
+        {
+          "answer": "Hole in wall",
+          "text": "Hole in wall",
+          "label": "Hole in wall",
+          "name": "Hole in wall",
+          "valueText": "Hole in wall",
+          "points": 8,
+          "score": 8,
+          "value": 8
+        },
+        {
+          "answer": "Remote batteries",
+          "text": "Remote batteries",
+          "label": "Remote batteries",
+          "name": "Remote batteries",
+          "valueText": "Remote batteries",
+          "points": 4,
+          "score": 4,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "category": "Gen Z",
+      "question": "Name something Gen Z puts in the bio",
+      "prompt": "Name something Gen Z puts in the bio",
+      "title": "Name something Gen Z puts in the bio",
+      "questionText": "Name something Gen Z puts in the bio",
+      "q": "Name something Gen Z puts in the bio",
+      "answers": [
+        {
+          "answer": "Pronouns",
+          "text": "Pronouns",
+          "label": "Pronouns",
+          "name": "Pronouns",
+          "valueText": "Pronouns",
+          "points": 37,
+          "score": 37,
+          "value": 37
+        },
+        {
+          "answer": "Linktree",
+          "text": "Linktree",
+          "label": "Linktree",
+          "name": "Linktree",
+          "valueText": "Linktree",
+          "points": 23,
+          "score": 23,
+          "value": 23
+        },
+        {
+          "answer": "Emoji mood",
+          "text": "Emoji mood",
+          "label": "Emoji mood",
+          "name": "Emoji mood",
+          "valueText": "Emoji mood",
+          "points": 20,
+          "score": 20,
+          "value": 20
+        },
+        {
+          "answer": "Class year",
+          "text": "Class year",
+          "label": "Class year",
+          "name": "Class year",
+          "valueText": "Class year",
+          "points": 14,
+          "score": 14,
+          "value": 14
+        },
+        {
+          "answer": "Zodiac sign",
+          "text": "Zodiac sign",
+          "label": "Zodiac sign",
+          "name": "Zodiac sign",
+          "valueText": "Zodiac sign",
+          "points": 6,
+          "score": 6,
+          "value": 6
+        }
+      ]
+    },
+    {
+      "category": "Gen X",
+      "question": "Name a toy Gen X grew up with",
+      "prompt": "Name a toy Gen X grew up with",
+      "title": "Name a toy Gen X grew up with",
+      "questionText": "Name a toy Gen X grew up with",
+      "q": "Name a toy Gen X grew up with",
+      "answers": [
+        {
+          "answer": "Rubik\u2019s Cube",
+          "text": "Rubik\u2019s Cube",
+          "label": "Rubik\u2019s Cube",
+          "name": "Rubik\u2019s Cube",
+          "valueText": "Rubik\u2019s Cube",
+          "points": 35,
+          "score": 35,
+          "value": 35
+        },
+        {
+          "answer": "Cabbage Patch Kids",
+          "text": "Cabbage Patch Kids",
+          "label": "Cabbage Patch Kids",
+          "name": "Cabbage Patch Kids",
+          "valueText": "Cabbage Patch Kids",
+          "points": 25,
+          "score": 25,
+          "value": 25
+        },
+        {
+          "answer": "Transformers",
+          "text": "Transformers",
+          "label": "Transformers",
+          "name": "Transformers",
+          "valueText": "Transformers",
+          "points": 23,
+          "score": 23,
+          "value": 23
+        },
+        {
+          "answer": "Atari",
+          "text": "Atari",
+          "label": "Atari",
+          "name": "Atari",
+          "valueText": "Atari",
+          "points": 11,
+          "score": 11,
+          "value": 11
+        },
+        {
+          "answer": "Lite\u2011Brite",
+          "text": "Lite\u2011Brite",
+          "label": "Lite\u2011Brite",
+          "name": "Lite\u2011Brite",
+          "valueText": "Lite\u2011Brite",
+          "points": 6,
+          "score": 6,
+          "value": 6
+        }
+      ]
+    },
+    {
+      "category": "Gen Z",
+      "question": "Name a trend Gen Z popularized",
+      "prompt": "Name a trend Gen Z popularized",
+      "title": "Name a trend Gen Z popularized",
+      "questionText": "Name a trend Gen Z popularized",
+      "q": "Name a trend Gen Z popularized",
+      "answers": [
+        {
+          "answer": "Short\u2011form videos",
+          "text": "Short\u2011form videos",
+          "label": "Short\u2011form videos",
+          "name": "Short\u2011form videos",
+          "valueText": "Short\u2011form videos",
+          "points": 25,
+          "score": 25,
+          "value": 25
+        },
+        {
+          "answer": "Memes",
+          "text": "Memes",
+          "label": "Memes",
+          "name": "Memes",
+          "valueText": "Memes",
+          "points": 19,
+          "score": 19,
+          "value": 19
+        },
+        {
+          "answer": "Cottagecore",
+          "text": "Cottagecore",
+          "label": "Cottagecore",
+          "name": "Cottagecore",
+          "valueText": "Cottagecore",
+          "points": 19,
+          "score": 19,
+          "value": 19
+        },
+        {
+          "answer": "Thrifting",
+          "text": "Thrifting",
+          "label": "Thrifting",
+          "name": "Thrifting",
+          "valueText": "Thrifting",
+          "points": 12,
+          "score": 12,
+          "value": 12
+        },
+        {
+          "answer": "BeReal",
+          "text": "BeReal",
+          "label": "BeReal",
+          "name": "BeReal",
+          "valueText": "BeReal",
+          "points": 9,
+          "score": 9,
+          "value": 9
+        },
+        {
+          "answer": "Stan culture",
+          "text": "Stan culture",
+          "label": "Stan culture",
+          "name": "Stan culture",
+          "valueText": "Stan culture",
+          "points": 8,
+          "score": 8,
+          "value": 8
+        },
+        {
+          "answer": "VSCO aesthetics",
+          "text": "VSCO aesthetics",
+          "label": "VSCO aesthetics",
+          "name": "VSCO aesthetics",
+          "valueText": "VSCO aesthetics",
+          "points": 6,
+          "score": 6,
+          "value": 6
+        },
+        {
+          "answer": "Duets",
+          "text": "Duets",
+          "label": "Duets",
+          "name": "Duets",
+          "valueText": "Duets",
+          "points": 2,
+          "score": 2,
+          "value": 2
+        }
+      ]
+    }
+  ],
+  "suddenDeath": [
+    {
+      "question": "Name a drink you find at every kid\u2019s birthday party",
+      "prompt": "Name a drink you find at every kid\u2019s birthday party",
+      "title": "Name a drink you find at every kid\u2019s birthday party",
+      "questionText": "Name a drink you find at every kid\u2019s birthday party",
+      "q": "Name a drink you find at every kid\u2019s birthday party",
+      "answer": "Juice",
+      "text": "Juice",
+      "label": "Juice",
+      "name": "Juice",
+      "valueText": "Juice"
+    },
+    {
+      "question": "Name something couples fight about most",
+      "prompt": "Name something couples fight about most",
+      "title": "Name something couples fight about most",
+      "questionText": "Name something couples fight about most",
+      "q": "Name something couples fight about most",
+      "answer": "Money",
+      "text": "Money",
+      "label": "Money",
+      "name": "Money",
+      "valueText": "Money"
+    },
+    {
+      "question": "Name a place people take selfies",
+      "prompt": "Name a place people take selfies",
+      "title": "Name a place people take selfies",
+      "questionText": "Name a place people take selfies",
+      "q": "Name a place people take selfies",
+      "answer": "Bathroom mirror",
+      "text": "Bathroom mirror",
+      "label": "Bathroom mirror",
+      "name": "Bathroom mirror",
+      "valueText": "Bathroom mirror"
+    },
+    {
+      "question": "Name a reason someone deletes social media",
+      "prompt": "Name a reason someone deletes social media",
+      "title": "Name a reason someone deletes social media",
+      "questionText": "Name a reason someone deletes social media",
+      "q": "Name a reason someone deletes social media",
+      "answer": "Drama",
+      "text": "Drama",
+      "label": "Drama",
+      "name": "Drama",
+      "valueText": "Drama"
+    },
+    {
+      "question": "Name a gift moms get every Mother\u2019s Day",
+      "prompt": "Name a gift moms get every Mother\u2019s Day",
+      "title": "Name a gift moms get every Mother\u2019s Day",
+      "questionText": "Name a gift moms get every Mother\u2019s Day",
+      "q": "Name a gift moms get every Mother\u2019s Day",
+      "answer": "Flowers",
+      "text": "Flowers",
+      "label": "Flowers",
+      "name": "Flowers",
+      "valueText": "Flowers"
+    },
+    {
+      "question": "Name something you hit \u2018snooze\u2019 on",
+      "prompt": "Name something you hit \u2018snooze\u2019 on",
+      "title": "Name something you hit \u2018snooze\u2019 on",
+      "questionText": "Name something you hit \u2018snooze\u2019 on",
+      "q": "Name something you hit \u2018snooze\u2019 on",
+      "answer": "Alarm clock",
+      "text": "Alarm clock",
+      "label": "Alarm clock",
+      "name": "Alarm clock",
+      "valueText": "Alarm clock"
+    },
+    {
+      "question": "Name something people forget at the grocery store",
+      "prompt": "Name something people forget at the grocery store",
+      "title": "Name something people forget at the grocery store",
+      "questionText": "Name something people forget at the grocery store",
+      "q": "Name something people forget at the grocery store",
+      "answer": "Milk",
+      "text": "Milk",
+      "label": "Milk",
+      "name": "Milk",
+      "valueText": "Milk"
+    },
+    {
+      "question": "Name a fast food chain with a clown mascot",
+      "prompt": "Name a fast food chain with a clown mascot",
+      "title": "Name a fast food chain with a clown mascot",
+      "questionText": "Name a fast food chain with a clown mascot",
+      "q": "Name a fast food chain with a clown mascot",
+      "answer": "McDonald\u2019s",
+      "text": "McDonald\u2019s",
+      "label": "McDonald\u2019s",
+      "name": "McDonald\u2019s",
+      "valueText": "McDonald\u2019s"
+    },
+    {
+      "question": "Name something people binge\u2011watch",
+      "prompt": "Name something people binge\u2011watch",
+      "title": "Name something people binge\u2011watch",
+      "questionText": "Name something people binge\u2011watch",
+      "q": "Name something people binge\u2011watch",
+      "answer": "Netflix",
+      "text": "Netflix",
+      "label": "Netflix",
+      "name": "Netflix",
+      "valueText": "Netflix"
+    },
+    {
+      "question": "Name a reason someone gets grounded",
+      "prompt": "Name a reason someone gets grounded",
+      "title": "Name a reason someone gets grounded",
+      "questionText": "Name a reason someone gets grounded",
+      "q": "Name a reason someone gets grounded",
+      "answer": "Bad grades",
+      "text": "Bad grades",
+      "label": "Bad grades",
+      "name": "Bad grades",
+      "valueText": "Bad grades"
+    },
+    {
+      "question": "Name a social media app teenagers use most",
+      "prompt": "Name a social media app teenagers use most",
+      "title": "Name a social media app teenagers use most",
+      "questionText": "Name a social media app teenagers use most",
+      "q": "Name a social media app teenagers use most",
+      "answer": "TikTok",
+      "text": "TikTok",
+      "label": "TikTok",
+      "name": "TikTok",
+      "valueText": "TikTok"
+    },
+    {
+      "question": "Name something people can\u2019t do without coffee",
+      "prompt": "Name something people can\u2019t do without coffee",
+      "title": "Name something people can\u2019t do without coffee",
+      "questionText": "Name something people can\u2019t do without coffee",
+      "q": "Name something people can\u2019t do without coffee",
+      "answer": "Wake up",
+      "text": "Wake up",
+      "label": "Wake up",
+      "name": "Wake up",
+      "valueText": "Wake up"
+    },
+    {
+      "question": "Most broken phone part",
+      "prompt": "Most broken phone part",
+      "title": "Most broken phone part",
+      "questionText": "Most broken phone part",
+      "q": "Most broken phone part",
+      "answer": "Screen",
+      "text": "Screen",
+      "label": "Screen",
+      "name": "Screen",
+      "valueText": "Screen"
+    },
+    {
+      "question": "Most borrowed kitchen item",
+      "prompt": "Most borrowed kitchen item",
+      "title": "Most borrowed kitchen item",
+      "questionText": "Most borrowed kitchen item",
+      "q": "Most borrowed kitchen item",
+      "answer": "Corkscrew",
+      "text": "Corkscrew",
+      "label": "Corkscrew",
+      "name": "Corkscrew",
+      "valueText": "Corkscrew"
+    },
+    {
+      "question": "Most popular Halloween costume",
+      "prompt": "Most popular Halloween costume",
+      "title": "Most popular Halloween costume",
+      "questionText": "Most popular Halloween costume",
+      "q": "Most popular Halloween costume",
+      "answer": "Witch",
+      "text": "Witch",
+      "label": "Witch",
+      "name": "Witch",
+      "valueText": "Witch"
+    },
+    {
+      "question": "Most popular smartphone brand",
+      "prompt": "Most popular smartphone brand",
+      "title": "Most popular smartphone brand",
+      "questionText": "Most popular smartphone brand",
+      "q": "Most popular smartphone brand",
+      "answer": "Apple",
+      "text": "Apple",
+      "label": "Apple",
+      "name": "Apple",
+      "valueText": "Apple"
+    },
+    {
+      "question": "Most common car color",
+      "prompt": "Most common car color",
+      "title": "Most common car color",
+      "questionText": "Most common car color",
+      "q": "Most common car color",
+      "answer": "White",
+      "text": "White",
+      "label": "White",
+      "name": "White",
+      "valueText": "White"
+    },
+    {
+      "question": "Most common houseplant",
+      "prompt": "Most common houseplant",
+      "title": "Most common houseplant",
+      "questionText": "Most common houseplant",
+      "q": "Most common houseplant",
+      "answer": "Succulent",
+      "text": "Succulent",
+      "label": "Succulent",
+      "name": "Succulent",
+      "valueText": "Succulent"
+    },
+    {
+      "question": "Most common coffee order",
+      "prompt": "Most common coffee order",
+      "title": "Most common coffee order",
+      "questionText": "Most common coffee order",
+      "q": "Most common coffee order",
+      "answer": "Latte",
+      "text": "Latte",
+      "label": "Latte",
+      "name": "Latte",
+      "valueText": "Latte"
+    },
+    {
+      "question": "Most common ice cream flavor",
+      "prompt": "Most common ice cream flavor",
+      "title": "Most common ice cream flavor",
+      "questionText": "Most common ice cream flavor",
+      "q": "Most common ice cream flavor",
+      "answer": "Vanilla",
+      "text": "Vanilla",
+      "label": "Vanilla",
+      "name": "Vanilla",
+      "valueText": "Vanilla"
+    },
+    {
+      "question": "Most popular fast\u2011food fries",
+      "prompt": "Most popular fast\u2011food fries",
+      "title": "Most popular fast\u2011food fries",
+      "questionText": "Most popular fast\u2011food fries",
+      "q": "Most popular fast\u2011food fries",
+      "answer": "McDonald\u2019s",
+      "text": "McDonald\u2019s",
+      "label": "McDonald\u2019s",
+      "name": "McDonald\u2019s",
+      "valueText": "McDonald\u2019s"
+    },
+    {
+      "question": "Best selling pie flavor",
+      "prompt": "Best selling pie flavor",
+      "title": "Best selling pie flavor",
+      "questionText": "Best selling pie flavor",
+      "q": "Best selling pie flavor",
+      "answer": "Apple",
+      "text": "Apple",
+      "label": "Apple",
+      "name": "Apple",
+      "valueText": "Apple"
+    },
+    {
+      "question": "Best selling soda",
+      "prompt": "Best selling soda",
+      "title": "Best selling soda",
+      "questionText": "Best selling soda",
+      "q": "Best selling soda",
+      "answer": "Coke",
+      "text": "Coke",
+      "label": "Coke",
+      "name": "Coke",
+      "valueText": "Coke"
+    },
+    {
+      "question": "Most common gym machine",
+      "prompt": "Most common gym machine",
+      "title": "Most common gym machine",
+      "questionText": "Most common gym machine",
+      "q": "Most common gym machine",
+      "answer": "Treadmill",
+      "text": "Treadmill",
+      "label": "Treadmill",
+      "name": "Treadmill",
+      "valueText": "Treadmill"
+    },
+    {
+      "question": "Most played party card game",
+      "prompt": "Most played party card game",
+      "title": "Most played party card game",
+      "questionText": "Most played party card game",
+      "q": "Most played party card game",
+      "answer": "Uno",
+      "text": "Uno",
+      "label": "Uno",
+      "name": "Uno",
+      "valueText": "Uno"
+    },
+    {
+      "question": "Most common thing people are late to",
+      "prompt": "Most common thing people are late to",
+      "title": "Most common thing people are late to",
+      "questionText": "Most common thing people are late to",
+      "q": "Most common thing people are late to",
+      "answer": "Work",
+      "text": "Work",
+      "label": "Work",
+      "name": "Work",
+      "valueText": "Work"
+    },
+    {
+      "question": "Most common sandwich bread",
+      "prompt": "Most common sandwich bread",
+      "title": "Most common sandwich bread",
+      "questionText": "Most common sandwich bread",
+      "q": "Most common sandwich bread",
+      "answer": "White",
+      "text": "White",
+      "label": "White",
+      "name": "White",
+      "valueText": "White"
+    },
+    {
+      "question": "Most common New Year\u2019s resolution",
+      "prompt": "Most common New Year\u2019s resolution",
+      "title": "Most common New Year\u2019s resolution",
+      "questionText": "Most common New Year\u2019s resolution",
+      "q": "Most common New Year\u2019s resolution",
+      "answer": "Lose weight",
+      "text": "Lose weight",
+      "label": "Lose weight",
+      "name": "Lose weight",
+      "valueText": "Lose weight"
+    },
+    {
+      "question": "Most forgotten holiday item",
+      "prompt": "Most forgotten holiday item",
+      "title": "Most forgotten holiday item",
+      "questionText": "Most forgotten holiday item",
+      "q": "Most forgotten holiday item",
+      "answer": "Batteries",
+      "text": "Batteries",
+      "label": "Batteries",
+      "name": "Batteries",
+      "valueText": "Batteries"
+    },
+    {
+      "question": "Most likely late person",
+      "prompt": "Most likely late person",
+      "title": "Most likely late person",
+      "questionText": "Most likely late person",
+      "q": "Most likely late person",
+      "answer": "Friend",
+      "text": "Friend",
+      "label": "Friend",
+      "name": "Friend",
+      "valueText": "Friend"
+    },
+    {
+      "question": "Most lost household item",
+      "prompt": "Most lost household item",
+      "title": "Most lost household item",
+      "questionText": "Most lost household item",
+      "q": "Most lost household item",
+      "answer": "Keys",
+      "text": "Keys",
+      "label": "Keys",
+      "name": "Keys",
+      "valueText": "Keys"
+    },
+    {
+      "question": "Most used streaming service",
+      "prompt": "Most used streaming service",
+      "title": "Most used streaming service",
+      "questionText": "Most used streaming service",
+      "q": "Most used streaming service",
+      "answer": "Netflix",
+      "text": "Netflix",
+      "label": "Netflix",
+      "name": "Netflix",
+      "valueText": "Netflix"
+    }
+  ]
+}
